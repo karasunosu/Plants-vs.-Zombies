@@ -1,0 +1,5641 @@
+fileFormatVersion: 2
+guid: 29e07772d76b1514b8ccacc3ed54213a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 88
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_0
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 919
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3adb1d2de13846a64c3490c3d7ec9
+      internalID: 294319780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 911
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7757aad4e5cfb4f841ee27cb6e5991
+      internalID: 1113487101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_2
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 925
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1868cd6dde3bf254e8afdfdee12fe0a8
+      internalID: -343470840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_3
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 917
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48855349339dd9f4d8546fdd09556e79
+      internalID: -675554482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_4
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 915
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07255a604603f2a4196f4af58784b3dd
+      internalID: 1955642537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 910
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc6aa8a8d83a67419096ef57d32c4e8
+      internalID: 82086743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 760
+        width: 203
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3067f46e6d3b64782b22ea53894e27
+      internalID: -1770905409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 778
+        width: 127
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9486344f14902e24abac2b183aa94f57
+      internalID: -939197339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_8
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 830
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea40abf31df2cb4b97042a35d6b3234
+      internalID: -501784351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 768
+        width: 197
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17e064ebd4c6a24690112001efe1d18
+      internalID: 1299196802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 798
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878ad863a1df3f4fa31a0ceaf9e2744
+      internalID: -1424898465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 767
+        width: 209
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95706ccb4909fd3428d4abd9879b3abb
+      internalID: 2143405611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_12
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 797
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e74efbeaff5cfe42b7a3c1254c8d52c
+      internalID: 485274968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 766
+        width: 210
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b78082e1d0afa84b991598fef17274f
+      internalID: -644434968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 764
+        width: 207
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a77a7059ed37b47aa803a6290362a7
+      internalID: 1239498383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 792
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c752e387425fad04cb4806aa9f21eec1
+      internalID: 387151261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 824
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22f2a62fd682d24ea058f48ce6634c4
+      internalID: -986982151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 824
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccf27ddc25bd464cb2e47acc836c446
+      internalID: -1668518649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 816
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7966ce308632247ab6839cd73ebe5d
+      internalID: 430672494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_19
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 814
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d1ce2bbf940547872d9a15698da6c
+      internalID: 1214216515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 809
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668d8cc6fff290b4fa008fc6a8fe724e
+      internalID: -679393664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_22
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 765
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9e57011c3d8cc41902098df46c30ff
+      internalID: 532929539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_23
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 766
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aafeb2b3dbb614784c2d90cd0cf862
+      internalID: -651200619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_24
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 765
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4eea2cacc0490499291e37abecdead
+      internalID: -694806089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_25
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 705
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f27727d8003dd4ba235eeedb80f45f
+      internalID: 731925166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_26
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 711
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb646469e7d98646beb0cfec08a3e72
+      internalID: -1025269923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 684
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392c8eb0cbd0f374aa01c909ab9ae8b5
+      internalID: 1748430491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 684
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ec920e2790fd43b269937b47ee28d
+      internalID: 855477261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 683
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ece442b617c848af82eef6f57360a
+      internalID: -291130478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_30
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 682
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f60562250b6e419063bc0847a0473
+      internalID: -1884149371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_31
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 680
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32064fe716025ae419fc2fad31d49d26
+      internalID: -660192544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_32
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 678
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08466cf081bdb254a80385a8833bfb41
+      internalID: -2032384334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_33
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 695
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71ca94fc9f5e48419ad7cc91a889ea9
+      internalID: 256107391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_34
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 677
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43336587535c70f42beec038ea42696c
+      internalID: 645084301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_35
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 691
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa611c816c137c499ba01baa7648cc0
+      internalID: -780582320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_36
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 698
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f484fe84a8a68254497e5ba5480bb183
+      internalID: 1954902249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 675
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a7c770dffa1f1418fe0e3a2b43a4aa
+      internalID: -945557858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_38
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 675
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eaac83bc99fde459a6c71743187660
+      internalID: 422167703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_39
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 675
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e921bd2fdae74794f02c0303e5c04
+      internalID: -127812194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_40
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 673
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc5ebab9e0954143a31ebdbb79cda23
+      internalID: -1771991808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_41
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 670
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d5b3f9d4a4f604695dea4729b63930
+      internalID: 268467752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_42
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 682
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b4b27efc6d84b4e82dc084b875e469
+      internalID: -716473830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_43
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 670
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7526f4a1fa2b4bb915e8a7e125cd6
+      internalID: 1495019312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_44
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 668
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed59bf643309cc4bb263b61d883a83b
+      internalID: 365066328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_45
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 668
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec7015271d10504f97215b9d799e483
+      internalID: 1836795041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 675
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fa93869b51d95458a88c8ef0ddac73
+      internalID: -586149850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 675
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664b8e77a8d52b343bab1b79d4abe9b3
+      internalID: 6270838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_48
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 674
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593ea704305482b46815bcc3d2ec1c69
+      internalID: -1311029167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_49
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 667
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3dfe2dda7eb474e8612bd65cd24b71
+      internalID: -872082900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_50
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 671
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2154b4ff45bbe34ba5ea27baaf843a1
+      internalID: 1820357222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_51
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 666
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad309b9499830d4f80a7cd3094a7486
+      internalID: -1381877898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 514
+        width: 194
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2c3eb86c70c24ea9756f0019686bf
+      internalID: 1928901274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 520
+        width: 184
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe4d75e51e03c4c8eb0c9210d9caf5
+      internalID: -3029941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 521
+        width: 175
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d945b11db6444c8529605a815ff6c
+      internalID: 522221232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 520
+        width: 169
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87604a3c6d578fc46abd1ca1bd151a7c
+      internalID: -637601717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_56
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 669
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7859cbadda8b048b5370af868173eb
+      internalID: -1957448190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 513
+        width: 174
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595eda0fa69e39a41ba27543691a6650
+      internalID: 1156219680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_58
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 667
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7c5cbc8267a5b4f9941f7f7de7a7c0
+      internalID: -482465545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_59
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 665
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2428533b284fbeb4ea3b70fb0ad2b91d
+      internalID: 893730814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_60
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 560
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d18aa7dac454439db6f0f1744d685
+      internalID: -1636488153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 520
+        width: 166
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985895ef40c4d06458c9a97da78d3213
+      internalID: -294388446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 519
+        width: 171
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edab186295d45f41b1faf2e90f301f3
+      internalID: 2019096619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 512
+        width: 166
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef884417b295b2444a7357e097ba9e57
+      internalID: -1717442032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_64
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 541
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a653d6e02a74b74c9c0c0de51b51341
+      internalID: 1020649454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_65
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 531
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9397f8bb07f4884386852a634385b51
+      internalID: 51304764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_66
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 542
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e1ecb32b4b61489560bcc95a5f0d3
+      internalID: 501071450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_67
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 529
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e636b4d5b2c4d94b8e7b9e6495d3d95
+      internalID: -1776894214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_68
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 543
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c57af606a1494d47886453938890695
+      internalID: -986851126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_69
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 542
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a215f6e0125c05e4f9b72060d99a8f21
+      internalID: -554457275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_70
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 542
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a829a50191274eb2616d6ffb8e781
+      internalID: 535135782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_71
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 524
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f0c446e9ca7f044b0e10724bad6df0
+      internalID: 667450442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_72
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 523
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ded6f4cae9c49c4eb309309684a7182
+      internalID: -948364289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 523
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ec2f9075356c45a09edf2d0522db4
+      internalID: -1971339360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_74
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a675c2160dff4af4297ac2a933f770b9
+      internalID: 1285295499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_75
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 523
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537dcd63b625e240a9d721b32e981b8
+      internalID: 892154649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_76
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 525
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e2c98b0768474c944c634a40fcc96
+      internalID: 921524125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_77
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 526
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998b7f6cc3c8a041b95807e92475d19
+      internalID: 1838129319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_78
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 527
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef474d2a899fd5742a984f5df8115062
+      internalID: -1187793797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_79
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 527
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a10723ac5f05b45a3b2c825f9c7bd7
+      internalID: -954708952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_80
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 523
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef70f665d11b094894ebb9eeb2ae455
+      internalID: 1500684331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_81
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 527
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0d542232d98645b3406fbf0c30ee5
+      internalID: -286902504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_82
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 522
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda694b556b690c4fbe11760d6b17e00
+      internalID: -652348683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_83
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 521
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5306d7849312e284687d515b86a2635e
+      internalID: 488480638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_84
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 520
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41648625828869f46a73b1ef72afc141
+      internalID: -1833458955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_85
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c605470bdb775ea46bfe2acc5a7e1412
+      internalID: -302162278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_86
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 519
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ba5ff2d7e6d74f9ad1c27388c5743
+      internalID: -605429826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_87
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 519
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca84afe4a9616b41bf9644894d4b49b
+      internalID: 1230892764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_88
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28663bd2ef321b1489ced4b2dd65ab8f
+      internalID: 1388062401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_89
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 520
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f859e7ee3ba1d7d4683223058d88af17
+      internalID: 1328043366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_90
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 473
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1cb2399416a0d48a72b7df571b1a2d
+      internalID: -269521632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_91
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 471
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634e530ff738ef644be10b0db7f85403
+      internalID: 435757150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_92
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 469
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d81ed937073244469cbecb89998c450
+      internalID: -1575301906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_93
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 459
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84ec36b07c9cdd45bdeff68b134ff76
+      internalID: -2123458965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_94
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 458
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e4089171d1d54f9c8837ccc8c4aea
+      internalID: -628035243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_95
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 466
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e303cc176678340853f069a4aa4038
+      internalID: -955841662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_96
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 464
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b16990fd9c9e2b4291ca7bee4b4e26b
+      internalID: -1913610593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_97
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 461
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e469fb6e828b2740bb98ac68b13bcaa
+      internalID: 1621152670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_98
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 455
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475393ec3dd73ec409685dd6eab8519c
+      internalID: -657116111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_99
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 452
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734d8b29d63afa1459d086a62bd12fa7
+      internalID: -1370327539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_100
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 451
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a183d88a298970845ad49d420c2a70b9
+      internalID: -1365837215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_101
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 447
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31ddf711aa2e0644a1019fedebd5e55
+      internalID: 355237790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_102
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 457
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12116539d8b59614483302aebbc7b5d9
+      internalID: 2038963951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_103
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 451
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb15a3d84b71344b86483f20a6a654
+      internalID: 1874207559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 429
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1b192e0d4c4a4a8701c45addee166
+      internalID: -683679428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_105
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 427
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e896537c8c2e9884ab1fde8e5e45afa5
+      internalID: -1853137079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 425
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37857e6c43e18704c92f8b3f9f8aeb60
+      internalID: 1197245478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_107
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 422
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6a63e2e7741a44c9050d25c0fcf5d1
+      internalID: 1753818645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_108
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 420
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eee305d60d6c246a8281e87c4cef5c
+      internalID: 1535778483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_109
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 418
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2bdfb3e633b5b4cba85d87243ac22e
+      internalID: 61487366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_110
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 414
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd2d804d77a58e4dac3e2e186938284
+      internalID: -941132096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_111
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 443
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8ff593b0737974986960ed99aaf26b
+      internalID: -267409927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_112
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 439
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59db97afabd7d4cba28602da4428cb
+      internalID: 453043889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_113
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 423
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e6751782a5444bb82515d79112e3c
+      internalID: 987174990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_114
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 423
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a662a271f69f4faa96d29972ca714
+      internalID: 909467096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_115
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 422
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4e8d56a5dd5247803a508d6e5cda4
+      internalID: -523492940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_116
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a11be6a2c2f54ca51597b8e364d13
+      internalID: -1175029749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_117
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 419
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85642089d1c93c4daa9bd4554d3d6ff
+      internalID: 1723521913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_118
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 419
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b2689c36055a84f8fb6ad9f85aeb3d
+      internalID: 2028095246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_119
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 418
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607027f5662ecc6499bd160a8073af3b
+      internalID: -1277297451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_120
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 416
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c631f0005f95acc46909dd031db44376
+      internalID: -80602922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_121
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06381b74b200eda489795431ab291948
+      internalID: 1733545553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_122
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 413
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07458e0190764e44bf77d59df554128
+      internalID: 69920001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_123
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 419
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b77dcd56fc3f447a840dda5751f576
+      internalID: -159041075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_124
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 411
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f956e93370abb23468be192f12340831
+      internalID: 1864255291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 277
+        width: 198
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25192583ad75842bb9c32293723825
+      internalID: -1378130269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 273
+        width: 183
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef0860d6a17b54da291c0a3e9e8a5d
+      internalID: -1474029347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_127
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 417
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a85e306708d1d429066dc1c0da48e7
+      internalID: -235292048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_128
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 415
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491f2dd87df80ae4f82cdcfafcb01fd4
+      internalID: 890760727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_129
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 414
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd009cf7ba7aa7498edd3af9753eccf
+      internalID: -909924382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_130
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 412
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff55994d7c2c1343bd51e4b6a880602
+      internalID: -2069705154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 274
+        width: 186
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb33ddcbc5b4aa448b886e661922f59
+      internalID: 464720689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 19
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 271
+        width: 166
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b1bc01f399a7746a66a847ae1a2605
+      internalID: -1739524550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 264
+        width: 166
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f98bccafa43e694a94fbf008ef90a9b
+      internalID: -213934434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 21
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 265
+        width: 166
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c521a3a96439e44f832a332880cb2d9
+      internalID: -1263923502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_135
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 410
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e0df81f2e673144bb0d4cddfb4e639
+      internalID: -852369273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_136
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 410
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce6bbe6ebae8e242a6be48b80f85e4d
+      internalID: 1274873591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 22
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 261
+        width: 176
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f62670497dfb44882886312381174
+      internalID: 584275994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 23
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 259
+        width: 181
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa8f97d28796184ea876c0221f2ddb1
+      internalID: 822946939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_139
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 322
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade2b2c5d19f48b4c856a7ba380a4d11
+      internalID: -154141056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_140
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7e390b4f8789f479f29fbc039dc202
+      internalID: 2001368709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_141
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 310
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af597a4b20f21a647b3e0ad0d54c1ec1
+      internalID: -1043943866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_142
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 302
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d10fe3b687e19e43a70f2eed58af18d
+      internalID: 1244227790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_143
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 300
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5fd77ecb5f21842a4b0d6281dbf75b
+      internalID: -1951740673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_144
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 297
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0029f3242c1b71e4499f0b0223ea9deb
+      internalID: -1999786812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_145
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 305
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7140915b6d24f4eb300bd6e9157342
+      internalID: -1692887034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_146
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b42265f4748448b137e33dfd56876
+      internalID: -1743169187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_147
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 283
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca063caa2164cf428d83ad4ef4f147d
+      internalID: 1675263199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_148
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 280
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f316c83a7b2e5a44f8d9550da5111383
+      internalID: -453122651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_149
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 280
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd7c79f019bc84418a02eb3bccb8aaf
+      internalID: 712534300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_150
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 278
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b5dfbac5f9584f9f33b2b2ad43e80
+      internalID: 655791669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_151
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 279
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55503c80b29370e4ca3ac0d11a21c222
+      internalID: 1162523431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_152
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 275
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef55c18a423ac3843a564fe9955281f2
+      internalID: 1662089980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_153
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 279
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c39a57f6f08641a2ebc3007dff14e
+      internalID: 1040181260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_154
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 271
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45734e83960ec2244af7397f4a8a68e2
+      internalID: 1937067693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_155
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2824ea0863f4e48a542ce210df3706
+      internalID: -1261522185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_156
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 278
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6092ca83baad8004e9ef65ec9634451b
+      internalID: 1304428122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_157
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 278
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebc35211b4a8164eb3dff5699e604d2
+      internalID: -340169451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_158
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 268
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd83f9d20ccd3489ee1777536e6f09
+      internalID: -927620570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_159
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 277
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade79ce8378033049bdc9cec315d10b4
+      internalID: 1220952791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_160
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 265
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a38cd001cd00e4d87bbbb0f51b4ce8
+      internalID: -747486474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_161
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 262
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea4e1f9a93b564a9d791ac35bd67dc
+      internalID: 1060057748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_162
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 205
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ebb7dc3e18a1e4d8207a75dfc2be39
+      internalID: -1907756505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_163
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de382f5ff31a6be43bc0232c34766cf4
+      internalID: -1462646550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_164
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 191
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787e61ffb5441b2449d56f8b8654b02c
+      internalID: 1872139244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_165
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 173
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a2b986525b4af4a955460451c3c271
+      internalID: -728354904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 185
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d8f5a96a6cc3b4db50bcfb60b60956
+      internalID: -618065291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_167
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 168
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6f463327062e3408a12d956b4b1235
+      internalID: 1380473527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_168
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 167
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379ad0203ed24a442b5bd4efe8ce1ded
+      internalID: 1603282960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_169
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 165
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73243d7e5c721804ca6da2d3964c54e1
+      internalID: -2115494725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_170
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 169
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98031ab286c9b7940a2579c89d9706a9
+      internalID: 348451292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_171
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 161
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853c834a27fff5f4b8ec2992ddf4e1a2
+      internalID: 532882728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_172
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 165
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e247b77f7d170044ebbd6d72cac7934c
+      internalID: -1849467333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_173
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 157
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86223d5aee100840982a7477020488d
+      internalID: -417440314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_174
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 161
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe28aa5231a9748a7d01caf202351a
+      internalID: 1778690163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_175
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 163
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863d4553d2ebd4d479862b5eab830b28
+      internalID: -902712060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_176
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 160
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c9709108eb4d4d911ac3555fe9cab
+      internalID: -1061455342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_177
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 153
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab7d584099e0b845b2d743abe395d4e
+      internalID: 1766587796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_178
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 154
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01232f447f6792f429d873187987518a
+      internalID: -1446942014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 15
+        width: 147
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f02249b49b23447aed7cc98816d75b
+      internalID: -760233202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 26
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 53
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df614ddd48e32c94d98b6a87e621cbf0
+      internalID: 895379386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_181
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 156
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3c079f8b736c142a2bdbb90dae4532
+      internalID: -153666339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_182
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 153
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6123491c8ec6c4e8a59018b80a0733
+      internalID: -783453283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_183
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 133
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85cf6c508c856f439aa4c4dd2e4978a
+      internalID: -1303008808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_184
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a002f598fb02a5146a9acdae53f7ab4e
+      internalID: 1909536390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 27
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 52
+        width: 135
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01318420fadf2654681e465b712d20ec
+      internalID: -690615706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_186
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 125
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b82aaa7673c7ca4ca418fc539daaba9
+      internalID: -1904731149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 28
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 55
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e3ec6b7570924fbcd701f133a7c44
+      internalID: 25652984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 29
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 63
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a48e1a4e33afe548893d3e554e198b7
+      internalID: -433011589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_189
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 119
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4ac3e5ac828374ca589168e1b2616d
+      internalID: -1576672178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 64
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b358092f224a8b84cb25f7114a0648af
+      internalID: -129457947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_191
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 129
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9bf44921c3e8a4997278cfe488109f
+      internalID: 1672261825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_192
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 115
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1acc9692405a4dbf7b4d9474457a3
+      internalID: -1288445426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 31
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 61
+        width: 100
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaefc0821a3f7814aa7789f5d3876230
+      internalID: 1900614932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_194
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 109
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75005e88a8a27c4a9105fcf4d2ed03c
+      internalID: 1305303957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_195
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 128
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a57a792eeb05fd47b937199a4f845a3
+      internalID: 1962661323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_196
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 124
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3a21805bf0cd47bd978b2405021cd
+      internalID: 109321929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_197
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 116
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea549c1f038eb46458298a60e82441cb
+      internalID: 1001553953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_198
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 112
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acd713c3e57f59439fb5ca191fa3c3c
+      internalID: 435936770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_199
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 111
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f10f8e23500284f9a52de0765ae383
+      internalID: -2135170872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_200
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 110
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666c347aff2223c489c6859f640a285c
+      internalID: -1648800761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_201
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 120
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797454758dd61904b9e9f3d291314795
+      internalID: 922101957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_202
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 105
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede16cd7a79518d49b6e57e6b811ae4a
+      internalID: 1970327354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_203
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 113
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e06503e8a1a3d4487b87d6ca35a5ed
+      internalID: 995500455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_204
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 106
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24975afa5b226ba47ba34381c7b8f6d7
+      internalID: 1312633720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_205
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 109
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6475b1f0db3af54dba08c003dff98d4
+      internalID: -210121122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_206
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 109
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2265a346b5e04fa479ebc61083912743
+      internalID: 1359880714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_207
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 107
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7902204109e624db6cb668d717b54a
+      internalID: -1551408196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_208
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ca046c641acf4c92352b13dd86f1a
+      internalID: 1470036836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_209
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83848eee4e6e9fb4889b0a55211a46b1
+      internalID: -1482643034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_210
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 105
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63455d9e8bf812b4d8fe40a73ec4763f
+      internalID: -2137438076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_211
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 102
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dc52c89545dea478590c2c1c0e1007
+      internalID: -944468184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_212
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 102
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767b7387f8a817478f7f3d83d136ae3
+      internalID: -1609449498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_213
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 103
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc5a8aceff495e4f82c02758d1f6b0d
+      internalID: 1399696188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_214
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 101
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56313da677836ef4baea2d0734f15bee
+      internalID: 1298130482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_215
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adb0836b5d5436498f6514066629e6d
+      internalID: -223511181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_216
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 102
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d9721307609724f97bb454aaad9024
+      internalID: -1097435495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_217
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce193753195b6094aae1d4f9cb469c77
+      internalID: -1341689221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_218
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 105
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f701285c5c29a4da71b84fc0f5bb1d
+      internalID: -1874620727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_219
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 94
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490c71bc6ac2eff44af8be1299be78c3
+      internalID: -1962608865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_220
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 97
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4642488a6c590f44384169433d936d3a
+      internalID: 1683521350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_221
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 91
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7524d2b4f31344fb2ffeb3004ce494
+      internalID: 1744824868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_222
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22d5b42a62275142b0b5c36e35a1308
+      internalID: 418063183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_223
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 98
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f2d1e63937cb149a8d3eb7713581d1
+      internalID: 1546836428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_224
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 90
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6203ffc87ed5a3c4fb0d3f002102d846
+      internalID: 1766243024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_225
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 90
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca6777d0b17994e946c7341482a1c0
+      internalID: -1429391624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_226
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 94
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a16f2a9ddcf48c448ca50fdc1d80e20
+      internalID: -658359505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_227
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 89
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564329fc74b48324a9dca176803761b3
+      internalID: -545552980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_228
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3d612fb2b74424ab6df5d1d05291fe
+      internalID: -614812101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_229
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 87
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f146de08349f1e4a8998e54bdd4e64f
+      internalID: 611636857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_230
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 87
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac9a3398793b2f49b33d09eebf607ea
+      internalID: 956544370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_231
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 73
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee5d124a3860341b138caf41f46e2a
+      internalID: -761844962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_232
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 83
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1435346d44c597e49ad6f01f2f0c5dac
+      internalID: 1298870238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_233
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 67
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c835e1f9e45bdda489444a56e7ca545f
+      internalID: 870827124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_234
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 73
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0da9bc64efca46a99991e5f5f10af
+      internalID: -1067847916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_235
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 70
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665e922939ed9947914ade77823be36
+      internalID: -649428115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_236
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 53
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41e44dfa7c0054aa1134d9a7112273
+      internalID: -1946328762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_237
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 63
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449bf9c6b38b2df47be741ad589a3dc5
+      internalID: -690571487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_238
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 63
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704cd552772910148a76491815cae9d4
+      internalID: 606904405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_239
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 63
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c797a1b59e14a14fa45cc29191f2d23
+      internalID: 196244141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_240
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 62
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc2e0dd53dba614e861ff7e0d9c35f8
+      internalID: 1557566963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_241
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 50
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6929537c140f84ca53717b2a5215e4
+      internalID: 2064131144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_242
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30840b05fbb4dbe438630f99381ee8af
+      internalID: 47750780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_243
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 54
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b44159da462f14392e8e005e791a8a
+      internalID: 473704617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_244
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 52
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41028292223c04789c838ced7fbe49
+      internalID: -2050382648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_245
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1709b75f79eed2f4fb72191cb6f939ea
+      internalID: -985887598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_246
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 14
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a85d55a0b54fc4884b8df7cbb7ed3d
+      internalID: 771667066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_247
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 11
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc824f5f8d19b64e94237cd3bae0695
+      internalID: 2115168477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_248
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 7
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f267360c0d1946b433d17af9b711a
+      internalID: 1454920694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_249
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 4
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50613149b3f0846a7ca1395e2649cb
+      internalID: 1280494307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potato_Mine_explosion_250
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a57d41bdece3814d87e003a82ff9302
+      internalID: 779631242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: 387151261
+      10: 522221232
+      11: -637601717
+      12: -294388446
+      13: 2019096619
+      14: 1156219680
+      15: -1717442032
+      16: -1378130269
+      17: -1474029347
+      18: 464720689
+      19: -1739524550
+      2: -939197339
+      20: -213934434
+      21: -1263923502
+      22: 584275994
+      23: 822946939
+      24: -618065291
+      25: -760233202
+      26: 895379386
+      27: -690615706
+      28: 25652984
+      29: -433011589
+      3: 1299196802
+      30: -129457947
+      31: 1900614932
+      4: 2143405611
+      5: -644434968
+      6: 1239498383
+      7: -1770905409
+      8: 1928901274
+      9: -3029941
+      Potato_Mine_explosion_0: 294319780
+      Potato_Mine_explosion_1: 1113487101
+      Potato_Mine_explosion_10: -1424898465
+      Potato_Mine_explosion_100: -1365837215
+      Potato_Mine_explosion_101: 355237790
+      Potato_Mine_explosion_102: 2038963951
+      Potato_Mine_explosion_103: 1874207559
+      Potato_Mine_explosion_104: -683679428
+      Potato_Mine_explosion_105: -1853137079
+      Potato_Mine_explosion_106: 1197245478
+      Potato_Mine_explosion_107: 1753818645
+      Potato_Mine_explosion_108: 1535778483
+      Potato_Mine_explosion_109: 61487366
+      Potato_Mine_explosion_110: -941132096
+      Potato_Mine_explosion_111: -267409927
+      Potato_Mine_explosion_112: 453043889
+      Potato_Mine_explosion_113: 987174990
+      Potato_Mine_explosion_114: 909467096
+      Potato_Mine_explosion_115: -523492940
+      Potato_Mine_explosion_116: -1175029749
+      Potato_Mine_explosion_117: 1723521913
+      Potato_Mine_explosion_118: 2028095246
+      Potato_Mine_explosion_119: -1277297451
+      Potato_Mine_explosion_12: 485274968
+      Potato_Mine_explosion_120: -80602922
+      Potato_Mine_explosion_121: 1733545553
+      Potato_Mine_explosion_122: 69920001
+      Potato_Mine_explosion_123: -159041075
+      Potato_Mine_explosion_124: 1864255291
+      Potato_Mine_explosion_127: -235292048
+      Potato_Mine_explosion_128: 890760727
+      Potato_Mine_explosion_129: -909924382
+      Potato_Mine_explosion_130: -2069705154
+      Potato_Mine_explosion_135: -852369273
+      Potato_Mine_explosion_136: 1274873591
+      Potato_Mine_explosion_139: -154141056
+      Potato_Mine_explosion_140: 2001368709
+      Potato_Mine_explosion_141: -1043943866
+      Potato_Mine_explosion_142: 1244227790
+      Potato_Mine_explosion_143: -1951740673
+      Potato_Mine_explosion_144: -1999786812
+      Potato_Mine_explosion_145: -1692887034
+      Potato_Mine_explosion_146: -1743169187
+      Potato_Mine_explosion_147: 1675263199
+      Potato_Mine_explosion_148: -453122651
+      Potato_Mine_explosion_149: 712534300
+      Potato_Mine_explosion_150: 655791669
+      Potato_Mine_explosion_151: 1162523431
+      Potato_Mine_explosion_152: 1662089980
+      Potato_Mine_explosion_153: 1040181260
+      Potato_Mine_explosion_154: 1937067693
+      Potato_Mine_explosion_155: -1261522185
+      Potato_Mine_explosion_156: 1304428122
+      Potato_Mine_explosion_157: -340169451
+      Potato_Mine_explosion_158: -927620570
+      Potato_Mine_explosion_159: 1220952791
+      Potato_Mine_explosion_16: -986982151
+      Potato_Mine_explosion_160: -747486474
+      Potato_Mine_explosion_161: 1060057748
+      Potato_Mine_explosion_162: -1907756505
+      Potato_Mine_explosion_163: -1462646550
+      Potato_Mine_explosion_164: 1872139244
+      Potato_Mine_explosion_165: -728354904
+      Potato_Mine_explosion_167: 1380473527
+      Potato_Mine_explosion_168: 1603282960
+      Potato_Mine_explosion_169: -2115494725
+      Potato_Mine_explosion_17: -1668518649
+      Potato_Mine_explosion_170: 348451292
+      Potato_Mine_explosion_171: 532882728
+      Potato_Mine_explosion_172: -1849467333
+      Potato_Mine_explosion_173: -417440314
+      Potato_Mine_explosion_174: 1778690163
+      Potato_Mine_explosion_175: -902712060
+      Potato_Mine_explosion_176: -1061455342
+      Potato_Mine_explosion_177: 1766587796
+      Potato_Mine_explosion_178: -1446942014
+      Potato_Mine_explosion_18: 430672494
+      Potato_Mine_explosion_181: -153666339
+      Potato_Mine_explosion_182: -783453283
+      Potato_Mine_explosion_183: -1303008808
+      Potato_Mine_explosion_184: 1909536390
+      Potato_Mine_explosion_186: -1904731149
+      Potato_Mine_explosion_189: -1576672178
+      Potato_Mine_explosion_19: 1214216515
+      Potato_Mine_explosion_191: 1672261825
+      Potato_Mine_explosion_192: -1288445426
+      Potato_Mine_explosion_194: 1305303957
+      Potato_Mine_explosion_195: 1962661323
+      Potato_Mine_explosion_196: 109321929
+      Potato_Mine_explosion_197: 1001553953
+      Potato_Mine_explosion_198: 435936770
+      Potato_Mine_explosion_199: -2135170872
+      Potato_Mine_explosion_2: -343470840
+      Potato_Mine_explosion_20: -679393664
+      Potato_Mine_explosion_200: -1648800761
+      Potato_Mine_explosion_201: 922101957
+      Potato_Mine_explosion_202: 1970327354
+      Potato_Mine_explosion_203: 995500455
+      Potato_Mine_explosion_204: 1312633720
+      Potato_Mine_explosion_205: -210121122
+      Potato_Mine_explosion_206: 1359880714
+      Potato_Mine_explosion_207: -1551408196
+      Potato_Mine_explosion_208: 1470036836
+      Potato_Mine_explosion_209: -1482643034
+      Potato_Mine_explosion_21: -566431814
+      Potato_Mine_explosion_210: -2137438076
+      Potato_Mine_explosion_211: -944468184
+      Potato_Mine_explosion_212: -1609449498
+      Potato_Mine_explosion_213: 1399696188
+      Potato_Mine_explosion_214: 1298130482
+      Potato_Mine_explosion_215: -223511181
+      Potato_Mine_explosion_216: -1097435495
+      Potato_Mine_explosion_217: -1341689221
+      Potato_Mine_explosion_218: -1874620727
+      Potato_Mine_explosion_219: -1962608865
+      Potato_Mine_explosion_22: 532929539
+      Potato_Mine_explosion_220: 1683521350
+      Potato_Mine_explosion_221: 1744824868
+      Potato_Mine_explosion_222: 418063183
+      Potato_Mine_explosion_223: 1546836428
+      Potato_Mine_explosion_224: 1766243024
+      Potato_Mine_explosion_225: -1429391624
+      Potato_Mine_explosion_226: -658359505
+      Potato_Mine_explosion_227: -545552980
+      Potato_Mine_explosion_228: -614812101
+      Potato_Mine_explosion_229: 611636857
+      Potato_Mine_explosion_23: -651200619
+      Potato_Mine_explosion_230: 956544370
+      Potato_Mine_explosion_231: -761844962
+      Potato_Mine_explosion_232: 1298870238
+      Potato_Mine_explosion_233: 870827124
+      Potato_Mine_explosion_234: -1067847916
+      Potato_Mine_explosion_235: -649428115
+      Potato_Mine_explosion_236: -1946328762
+      Potato_Mine_explosion_237: -690571487
+      Potato_Mine_explosion_238: 606904405
+      Potato_Mine_explosion_239: 196244141
+      Potato_Mine_explosion_24: -694806089
+      Potato_Mine_explosion_240: 1557566963
+      Potato_Mine_explosion_241: 2064131144
+      Potato_Mine_explosion_242: 47750780
+      Potato_Mine_explosion_243: 473704617
+      Potato_Mine_explosion_244: -2050382648
+      Potato_Mine_explosion_245: -985887598
+      Potato_Mine_explosion_246: 771667066
+      Potato_Mine_explosion_247: 2115168477
+      Potato_Mine_explosion_248: 1454920694
+      Potato_Mine_explosion_249: 1280494307
+      Potato_Mine_explosion_25: 731925166
+      Potato_Mine_explosion_250: 779631242
+      Potato_Mine_explosion_26: -1025269923
+      Potato_Mine_explosion_27: 1748430491
+      Potato_Mine_explosion_28: 855477261
+      Potato_Mine_explosion_29: -291130478
+      Potato_Mine_explosion_3: -675554482
+      Potato_Mine_explosion_30: -1884149371
+      Potato_Mine_explosion_31: -660192544
+      Potato_Mine_explosion_32: -2032384334
+      Potato_Mine_explosion_33: 256107391
+      Potato_Mine_explosion_34: 645084301
+      Potato_Mine_explosion_35: -780582320
+      Potato_Mine_explosion_36: 1954902249
+      Potato_Mine_explosion_37: -945557858
+      Potato_Mine_explosion_38: 422167703
+      Potato_Mine_explosion_39: -127812194
+      Potato_Mine_explosion_4: 1955642537
+      Potato_Mine_explosion_40: -1771991808
+      Potato_Mine_explosion_41: 268467752
+      Potato_Mine_explosion_42: -716473830
+      Potato_Mine_explosion_43: 1495019312
+      Potato_Mine_explosion_44: 365066328
+      Potato_Mine_explosion_45: 1836795041
+      Potato_Mine_explosion_46: -586149850
+      Potato_Mine_explosion_47: 6270838
+      Potato_Mine_explosion_48: -1311029167
+      Potato_Mine_explosion_49: -872082900
+      Potato_Mine_explosion_5: 82086743
+      Potato_Mine_explosion_50: 1820357222
+      Potato_Mine_explosion_51: -1381877898
+      Potato_Mine_explosion_56: -1957448190
+      Potato_Mine_explosion_58: -482465545
+      Potato_Mine_explosion_59: 893730814
+      Potato_Mine_explosion_60: -1636488153
+      Potato_Mine_explosion_64: 1020649454
+      Potato_Mine_explosion_65: 51304764
+      Potato_Mine_explosion_66: 501071450
+      Potato_Mine_explosion_67: -1776894214
+      Potato_Mine_explosion_68: -986851126
+      Potato_Mine_explosion_69: -554457275
+      Potato_Mine_explosion_70: 535135782
+      Potato_Mine_explosion_71: 667450442
+      Potato_Mine_explosion_72: -948364289
+      Potato_Mine_explosion_73: -1971339360
+      Potato_Mine_explosion_74: 1285295499
+      Potato_Mine_explosion_75: 892154649
+      Potato_Mine_explosion_76: 921524125
+      Potato_Mine_explosion_77: 1838129319
+      Potato_Mine_explosion_78: -1187793797
+      Potato_Mine_explosion_79: -954708952
+      Potato_Mine_explosion_8: -501784351
+      Potato_Mine_explosion_80: 1500684331
+      Potato_Mine_explosion_81: -286902504
+      Potato_Mine_explosion_82: -652348683
+      Potato_Mine_explosion_83: 488480638
+      Potato_Mine_explosion_84: -1833458955
+      Potato_Mine_explosion_85: -302162278
+      Potato_Mine_explosion_86: -605429826
+      Potato_Mine_explosion_87: 1230892764
+      Potato_Mine_explosion_88: 1388062401
+      Potato_Mine_explosion_89: 1328043366
+      Potato_Mine_explosion_90: -269521632
+      Potato_Mine_explosion_91: 435757150
+      Potato_Mine_explosion_92: -1575301906
+      Potato_Mine_explosion_93: -2123458965
+      Potato_Mine_explosion_94: -628035243
+      Potato_Mine_explosion_95: -955841662
+      Potato_Mine_explosion_96: -1913610593
+      Potato_Mine_explosion_97: 1621152670
+      Potato_Mine_explosion_98: -657116111
+      Potato_Mine_explosion_99: -1370327539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

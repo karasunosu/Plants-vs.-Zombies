@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 70b8be105cc5b6f4b9e279837e404a1f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_burnt_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 722
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abc115c2b09d0042bd766e1e2c00689
+      internalID: -1027831057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 722
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952c957598a37c041909b928725f410c
+      internalID: -1119557490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 722
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c88c177f83bd4ea32e6bf5cfa8b1e
+      internalID: -983328297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 722
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0016da99a4bdb4d88d1dfb9e333654
+      internalID: -1400800175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 722
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6143c565147dde49841efdb65a3bc71
+      internalID: -668272902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 722
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b53c97290e9dda4c851c4915b0747f2
+      internalID: 467448177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 722
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06dcc9f5cb88104eb69c8ab4e18c696
+      internalID: 1349884862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_7
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 722
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b494673c81486304c858109daa09cb97
+      internalID: -1857588975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 578
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa54575f33e4d4ca03cd1237536603
+      internalID: -394040773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 578
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84b9089a7c2b74bb69866a69cc83f2
+      internalID: -1289764196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 578
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6c9aff27a996249a18a93a18ae9018
+      internalID: 1637005007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 578
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb514fc4651f06499f6e0c06195bd24
+      internalID: 273979157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_12
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 578
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d789cee7822ac4babfecdde6f4edfc
+      internalID: 566014767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_13
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 578
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471a91a3c783a244a1ff44a059a39a1
+      internalID: 240940228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_14
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 578
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158377562394fe4faeb7c6bc2b56322
+      internalID: 662932157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_15
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 578
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64927f98348bf2240b85621b8f436fe8
+      internalID: -2058254083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 434
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e4790f771a06f4bb07f6364a3eb957
+      internalID: -750106466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 434
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9715fc40e12e50847bfca974212b631e
+      internalID: 1227139514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_18
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 434
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050bacf584676c44da8decd708cc9d3f
+      internalID: -1613322031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 434
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23083f8c30e0ec84dab837f72a2be2ca
+      internalID: 1359842394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_20
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 434
+        width: 69
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae7427ef8f0f4c4a83de933b00e7fb5
+      internalID: 989627313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_21
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 433
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccbef2ba4c261544ba3b1a7d9d91056
+      internalID: -405133731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_22
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 433
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fd08aa237e09244bb2ca3e11c4547c
+      internalID: 1879953594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_23
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 427
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810420c6f034fbc48b4f18651e3d2d8e
+      internalID: 947097654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 289
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2a8923b2f6b9846a36e70f8305b793
+      internalID: -338076522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211f32b6fc8551e47aa61ec50260c8f5
+      internalID: 448162862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_27
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 285
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0496a381d4dc94243bc291c66f48da54
+      internalID: 1360004900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 286
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a087c1dddf77944b1aec03d1a67760
+      internalID: 1783107191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_29
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 289
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4ce0969924ad48b4ce50be564fdbd
+      internalID: -536556331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_31
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 288
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0c9a4bca1cec439ea302a45859d06
+      internalID: -1458550937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_32
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 288
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b7a7623ad0a447990985c242f0bfc
+      internalID: 1013458083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_34
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 286
+        width: 76
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cdf6f2188da124c8b1618071bec3b2
+      internalID: 1167765555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 305
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6655ed3ac06aa1940b4b768bd1bc01e0
+      internalID: -1281326177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_42
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 146
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024f9bf3c9116e41b1e375e118c64ce
+      internalID: -408607209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 145
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0acb517f1682c4db82014393cd5a3a
+      internalID: 1539813091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_44
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 141
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6559523e92ea3ac4fba5daee267c0cf9
+      internalID: -102214202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_45
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 144
+        width: 78
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46353f707e06d03449c7d23f40b7d56e
+      internalID: -1498302749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_46
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 143
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6fa402b2dc1040b02af9be445ab77
+      internalID: 1443890785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_47
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 141
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069dd4ac14ce6b4a98f143547cfb2d0
+      internalID: -891900378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_48
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 144
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad24b774b204d44b991a1e6ae4e7a24
+      internalID: -894276671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_58
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 144
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efed68eb853497b4188244879f0ff7af
+      internalID: -364417406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7d9523b32fbe647ba4d10c20c79e22
+      internalID: 1385008106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_60
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3101b734ec6e44982ec554ae7b0e1
+      internalID: 1880247493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_burnt_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b312b6f4fb0c45b0a65838efffae5
+      internalID: -1591016768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Zombie_burnt_0: -1027831057
+      Zombie_burnt_1: -1119557490
+      Zombie_burnt_10: 1637005007
+      Zombie_burnt_11: 273979157
+      Zombie_burnt_12: 566014767
+      Zombie_burnt_13: 240940228
+      Zombie_burnt_14: 662932157
+      Zombie_burnt_15: -2058254083
+      Zombie_burnt_16: -750106466
+      Zombie_burnt_17: 1227139514
+      Zombie_burnt_18: -1613322031
+      Zombie_burnt_19: 1359842394
+      Zombie_burnt_2: -983328297
+      Zombie_burnt_20: 989627313
+      Zombie_burnt_21: -405133731
+      Zombie_burnt_22: 1879953594
+      Zombie_burnt_23: 947097654
+      Zombie_burnt_24: 195603884
+      Zombie_burnt_25: -338076522
+      Zombie_burnt_26: 448162862
+      Zombie_burnt_27: 1360004900
+      Zombie_burnt_28: 1783107191
+      Zombie_burnt_29: -536556331
+      Zombie_burnt_3: -1400800175
+      Zombie_burnt_30: 1229957365
+      Zombie_burnt_31: -1458550937
+      Zombie_burnt_32: 1013458083
+      Zombie_burnt_33: 1520021507
+      Zombie_burnt_34: 1167765555
+      Zombie_burnt_35: 1209901469
+      Zombie_burnt_36: -1281326177
+      Zombie_burnt_37: 978830399
+      Zombie_burnt_38: 916497361
+      Zombie_burnt_39: 1032372097
+      Zombie_burnt_4: -668272902
+      Zombie_burnt_40: -1269076716
+      Zombie_burnt_41: -1967246024
+      Zombie_burnt_42: -408607209
+      Zombie_burnt_43: 1539813091
+      Zombie_burnt_44: -102214202
+      Zombie_burnt_45: -1498302749
+      Zombie_burnt_46: 1443890785
+      Zombie_burnt_47: -891900378
+      Zombie_burnt_48: -894276671
+      Zombie_burnt_49: -24834682
+      Zombie_burnt_5: 467448177
+      Zombie_burnt_50: -1962089230
+      Zombie_burnt_51: -58647261
+      Zombie_burnt_52: -443034162
+      Zombie_burnt_53: -2011998532
+      Zombie_burnt_54: 1550809191
+      Zombie_burnt_55: 1549433193
+      Zombie_burnt_56: 254982499
+      Zombie_burnt_57: -824765537
+      Zombie_burnt_58: -364417406
+      Zombie_burnt_59: 1385008106
+      Zombie_burnt_6: 1349884862
+      Zombie_burnt_60: 1880247493
+      Zombie_burnt_61: -1591016768
+      Zombie_burnt_7: -1857588975
+      Zombie_burnt_8: -394040773
+      Zombie_burnt_9: -1289764196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

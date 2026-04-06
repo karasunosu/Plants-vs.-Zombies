@@ -1,0 +1,1240 @@
+fileFormatVersion: 2
+guid: a7988beccfdc1a848bd432e69220f9de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 68
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walnut-sheet-4_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 505
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259ba35cd2ab38d4daddf8685fd937d3
+      internalID: 993509899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 505
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb85602a28f3849863bc96a85c4811
+      internalID: -86470836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 505
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d3835e3386c0d43a50063d081d6ba0
+      internalID: -645719607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 505
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e799cf98d4689c4d9192a704e7054fd
+      internalID: 1222027328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 505
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a237d84b662e459f860b991e9edeb
+      internalID: 1921628816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 505
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b843d44676e82a4c8900866433103c5
+      internalID: -1040288935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 505
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b831c4b5437d4a4c8495b2d6c45c5e6
+      internalID: 1756759930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_7
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 505
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d67c5aa3b8ef4aba34df1a00780f3
+      internalID: 934767497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 421
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56552276d11d744a69082b83c83613
+      internalID: -1580713245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 421
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6f7b61cd3ffb64289ced85c8e477fb
+      internalID: -1302454546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 421
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f63259c6fe1c247bc98a738de65808
+      internalID: 1298430806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 421
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187c29fb075dabb45a2ff69180906c0a
+      internalID: 568254532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 421
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647908cfb22bbc24e808c789c65b6704
+      internalID: 1741535567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 421
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af9d7ff499ba24dad5437a28610e10
+      internalID: -898344133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 421
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4071317c8c5314abe39dd1ede4ad3c
+      internalID: -541418319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 421
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63eda9098f0f3a042800e6eb0f204218
+      internalID: 658955628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8930f80a1632b4786cb7e23d027025
+      internalID: -786360708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 337
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eb6835b26ac70459d76462112c6c54
+      internalID: 1070211298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 337
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b6e5fc366971649aaf631995b6820a
+      internalID: -1022542656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 337
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0836b98c08f2d644c9e0b8441d539570
+      internalID: -1181589443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 337
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c149bf8ca24b4ae45991b1b4ebb96aef
+      internalID: -447035295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 337
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0d63d4ab5c1f040bd1f2757a2df870
+      internalID: -1914188997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 337
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82128af879534e439d202506c3314b6
+      internalID: -672523590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_23
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 337
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a0f3e351cb7ab4682328232a8c8774
+      internalID: -2077414155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e6d46a89c226b4dbb16d0cdbfc7ea0
+      internalID: 865908609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 253
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ceb584a06a76b48b8fb4c529a70349
+      internalID: -1173050099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 253
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad2febf38bd59a49aeb551a26d1cf80
+      internalID: -654057769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 253
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02619f28f5f8594d8a1aee84cc70a79
+      internalID: -144735359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_28
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 253
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ceeef338815340a79d4f0c0eb9f9d
+      internalID: -1569159301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 253
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98765b73ac75d644a843fb75629b997
+      internalID: 1723653476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_30
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 253
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d15b40347d41cf4c82183e45bd087f8
+      internalID: 234046455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_31
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 253
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95daa27ae6769dd4b96e0a1c9394b0a0
+      internalID: -1930895395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 169
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b3ea8d507f24d47af3a8f0d3e40f7e
+      internalID: 1149985616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 169
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbcf55d58d355a4b986bd40a9cfeba9
+      internalID: -537774115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 169
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d436bb759915fd408b36b7d15dce83c
+      internalID: -1797206657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 169
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad45bfd94fcc9946bd9f026641913a1
+      internalID: -911254330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 169
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1cf01bf3f4846449482ac313e1df14
+      internalID: 118717810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_37
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 169
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47564acb56d224e8e9e60606c6b345
+      internalID: 568292877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 169
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d07448a8ddc4c4ea70f4af99e40bfa
+      internalID: 46276211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_39
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 169
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de656ea9df44342bdf56878730161c
+      internalID: 1179473759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612449240b02be478d6af94989675a4
+      internalID: -1461933145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 85
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f2a32105cb54e4da6ca03eb8baea6c
+      internalID: -2012899005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_42
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 85
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b1d49200cb2d4caca3bd3870e6d32
+      internalID: -1609419853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 85
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06d5faa46dd7f43b01651142740f5a
+      internalID: -454186974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 85
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110d307b3ee3bff4cba40d33c06db849
+      internalID: 2043698782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 85
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c842abbc3fa8f424ca8415dd5f1192e8
+      internalID: -613684810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 85
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b627ab0185ae246a31ad17d8b144cc
+      internalID: 1517483950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 85
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32169f97b9eb21c43a8fca13fff7ec25
+      internalID: 896558140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c129b8c3858e042a20f5493cd59f2e
+      internalID: 2068091160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walnut-sheet-4_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f511f75399df9146843f9c676c0b5bb
+      internalID: -812310236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Walnut-sheet-4_0: 993509899
+      Walnut-sheet-4_1: -86470836
+      Walnut-sheet-4_10: 1298430806
+      Walnut-sheet-4_11: 568254532
+      Walnut-sheet-4_12: 1741535567
+      Walnut-sheet-4_13: -898344133
+      Walnut-sheet-4_14: -541418319
+      Walnut-sheet-4_15: 658955628
+      Walnut-sheet-4_16: -786360708
+      Walnut-sheet-4_17: 1070211298
+      Walnut-sheet-4_18: -1022542656
+      Walnut-sheet-4_19: -1181589443
+      Walnut-sheet-4_2: -645719607
+      Walnut-sheet-4_20: -447035295
+      Walnut-sheet-4_21: -1914188997
+      Walnut-sheet-4_22: -672523590
+      Walnut-sheet-4_23: -2077414155
+      Walnut-sheet-4_24: 865908609
+      Walnut-sheet-4_25: -1173050099
+      Walnut-sheet-4_26: -654057769
+      Walnut-sheet-4_27: -144735359
+      Walnut-sheet-4_28: -1569159301
+      Walnut-sheet-4_29: 1723653476
+      Walnut-sheet-4_3: 1222027328
+      Walnut-sheet-4_30: 234046455
+      Walnut-sheet-4_31: -1930895395
+      Walnut-sheet-4_32: 1149985616
+      Walnut-sheet-4_33: -537774115
+      Walnut-sheet-4_34: -1797206657
+      Walnut-sheet-4_35: -911254330
+      Walnut-sheet-4_36: 118717810
+      Walnut-sheet-4_37: 568292877
+      Walnut-sheet-4_38: 46276211
+      Walnut-sheet-4_39: 1179473759
+      Walnut-sheet-4_4: 1921628816
+      Walnut-sheet-4_40: -1461933145
+      Walnut-sheet-4_41: -2012899005
+      Walnut-sheet-4_42: -1609419853
+      Walnut-sheet-4_43: -454186974
+      Walnut-sheet-4_44: 2043698782
+      Walnut-sheet-4_45: -613684810
+      Walnut-sheet-4_46: 1517483950
+      Walnut-sheet-4_47: 896558140
+      Walnut-sheet-4_48: 2068091160
+      Walnut-sheet-4_49: -812310236
+      Walnut-sheet-4_5: -1040288935
+      Walnut-sheet-4_6: 1756759930
+      Walnut-sheet-4_7: 934767497
+      Walnut-sheet-4_8: -1580713245
+      Walnut-sheet-4_9: -1302454546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

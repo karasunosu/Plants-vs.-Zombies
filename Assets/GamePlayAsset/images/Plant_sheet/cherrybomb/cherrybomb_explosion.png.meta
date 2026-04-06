@@ -1,0 +1,6322 @@
+fileFormatVersion: 2
+guid: 01eda61a93a848346a7375c12613f2b1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2130
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5085a486429344caaf2de53010906b
+      internalID: -1099587025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2107
+        width: 91
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eaba82041db52438f1242d03383e8c
+      internalID: -286156423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2082
+        width: 149
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13095512a2d807349a67ea11dca5faa8
+      internalID: -80183529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2082
+        width: 148
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5594d775dfcf5a4caab06faeb120631
+      internalID: -1105015640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2084
+        width: 150
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35dfd0aa1cfe3740b7de22a88e0c5de
+      internalID: 1007001705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2082
+        width: 150
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3388254ea03644245bf7fe4c765a182d
+      internalID: 947789243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2082
+        width: 154
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151cb1d9f2e5ee641b0d0e0c1e7fe6d2
+      internalID: 1982610974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2082
+        width: 156
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fec5cfdd90e004cacda2f30287e853
+      internalID: -1473327061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2101
+        width: 157
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a598e34b9b8af4a938e1137cb5a50d
+      internalID: -538477471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 2120
+        width: 160
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5701c477217ed4ab7fadde51d3045a
+      internalID: 1168480214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1826
+        width: 162
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8771c930ba45c4b88f5465238c6fae
+      internalID: -848001070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1842
+        width: 162
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc09baa6fc76b54582fa150af928538
+      internalID: 1660440440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1845
+        width: 165
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6688d36092880948b546e5480ec0590
+      internalID: 1228713334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1846
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e82a5cc1170c47827eca99f421c61
+      internalID: -2024723170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1849
+        width: 168
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c81f42d9cf1546a3f52e0e363d219
+      internalID: 697589366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 15
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1849
+        width: 169
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452b505209311a64abe9dd6535a8ebde
+      internalID: -1157149131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1849
+        width: 169
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace2f3ea9364154da309ae76d8433b8
+      internalID: 2121946061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_17
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1849
+        width: 169
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607a739f3cf59424ca6080e21b13d01d
+      internalID: -1922675856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_18
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1848
+        width: 172
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc853f0bdc73e884ba8054e03b3ab156
+      internalID: 792219086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_19
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1849
+        width: 173
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d1c00363b8d794392686ab56e42389
+      internalID: -1609879911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_20
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1849
+        width: 175
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea5fbaa066860d41a9583e825ec5fad
+      internalID: -1546585601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1841
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd42b0196f735045aadfa2df35dac29
+      internalID: 145948487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_22
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1840
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4523a26d6c29740a423e676d9075b2
+      internalID: 1428925688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1837
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b419e9ee57fec4a8eaf009a316ee91
+      internalID: -161511307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_24
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1831
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1afe47bd621a76498acfc18876a97ca
+      internalID: 1227613834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1546
+        width: 175
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfc501683fcca24499fc39489c938fc
+      internalID: 213895761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1552
+        width: 177
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149ff3868ebb81b41b531241991da2c6
+      internalID: 216207625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1552
+        width: 180
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e94ea6b52678714ab39f77975b098d1
+      internalID: 383170261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1543
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d092f9053a72541b617aed29ded88c
+      internalID: 1080889042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1545
+        width: 179
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c21a8660e51645ae442730475a2ca
+      internalID: -1124045861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_30
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1545
+        width: 182
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd043ce2e29e8541adc6481e0e8d33b
+      internalID: -1713776464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_31
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1540
+        width: 184
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1519b4f7ecd5634ebd694132ecbec29
+      internalID: -148740191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_32
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1542
+        width: 184
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eb57d2ff553454fb263759d7762bfe
+      internalID: -1916228305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_33
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1545
+        width: 184
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9133c4c2c0b435545b7424d4230ee564
+      internalID: -1924912590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_34
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1548
+        width: 184
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25446e67d4f6a0845a6e62f0f2e02713
+      internalID: 1155545513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_35
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1549
+        width: 187
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36209a00aff4d17468c8921955db5d3f
+      internalID: 1119526150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_36
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1537
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4547095b0e91c0645bbad965332686cb
+      internalID: -619410210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1540
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3d08a99728ce042ae430afb7cf41da
+      internalID: -1058299380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1534
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaa9cb8fbfc0c546b636af57923f842
+      internalID: -829578248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_39
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1538
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280c2561e2bdcf24c9a059e5d6f5ee34
+      internalID: 1426076469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_40
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1542
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dfad9edaa2a3d4eb2ecec53f5a5f42
+      internalID: 1986492649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_41
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1535
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a3c950faf9f04ba11bc0b24dbd70d
+      internalID: -1349891877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_42
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1541
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a5074df805ee0409641a9bdb204054
+      internalID: -702334301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_43
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1537
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7561f32e4764f8542b504a98859f7c85
+      internalID: 994139509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_44
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1540
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8bcbfe8e9d00489d5d1e7cf0161dd
+      internalID: 281647108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_45
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1530
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1f05c575d1254d9907b60bdacc9b5
+      internalID: -133927060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_46
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1531
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60d0abd89db6c44eafa19ab2341a4bc
+      internalID: 822976175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_47
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1536
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d6c02c6595df045b877af4d4a9aa93
+      internalID: 1239731680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_48
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1534
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de46b2aae6f584dbf5727270d22167
+      internalID: 1185120915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_49
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1533
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0c0de3bde332d48b8cfad8826fa30e
+      internalID: 296844390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_50
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1531
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7850108f4f0ecb1449290c5544c5b124
+      internalID: -1688694193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_51
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1252
+        width: 188
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc14e0af760e1b439a65a69d16fe57c
+      internalID: -163387434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1252
+        width: 186
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b99d72207363d4486a529c45ff743d
+      internalID: 1946192403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_53
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1251
+        width: 187
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd42e52ae66433a43b5a5929600c6031
+      internalID: -222870364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_54
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1247
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bf728eb4f412642b7d58d9a40bf38a
+      internalID: -2085576656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_55
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1251
+        width: 188
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7499d3cafda11fb44898931f56c73ed3
+      internalID: -544281899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_56
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbdf48742efdd54ab80aef808eb5eb7
+      internalID: 1933691105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_57
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1254
+        width: 189
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beed5160a78fb54c98718d57d74cf34
+      internalID: 1911247258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_58
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1249
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb701aec943ca54eae6be58007e6961
+      internalID: -842319385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_59
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22985e2926855ff4aacfb113338bab1d
+      internalID: -1690226151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_60
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1253
+        width: 190
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323bf0041a2a2114299eb97f7551e727
+      internalID: 208725595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_61
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1248
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec113d79cce417542811e4721ecc18a7
+      internalID: 1782439889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_62
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1251
+        width: 384
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b882d5bb287bc42b5ea657942c64a5
+      internalID: -1206538662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_63
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1246
+        width: 190
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51164a3514640d43bc8b423b9861ba0
+      internalID: 853436518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_64
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1246
+        width: 190
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae912cbe4cdca574f97591995a3f3f22
+      internalID: -1651489384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1244
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b285255bfca71e43aff664ca8bcf647
+      internalID: -975527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1245
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4aade344f388f4c8207bb0adaeacaa
+      internalID: -1996588912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_67
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1247
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb07b1bbe6ce51b439825de237f90f5a
+      internalID: -257389947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_68
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1246
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc60825d96912d4c92f1c000b260478
+      internalID: -649155416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_69
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1247
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb92f56f33119544291d3edd1719ae97
+      internalID: -1746503141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_70
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1244
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e927c6b92841564f8e12e2b15890f07
+      internalID: -1373579026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_71
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1247
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dccfcde0d586c9428985de39cbb5b0e
+      internalID: -1730003440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_72
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1243
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3303493fe59a9a0409d687d983c79373
+      internalID: 1215890905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_73
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1245
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca5b0f3aafd60942a6c936b35a21f6c
+      internalID: -654520274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_74
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1237
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabb705400a7bde43b15761e0c9ba0b3
+      internalID: -416724043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_75
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1238
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660df5c06ec2c2c4a9a279817733d319
+      internalID: -795445891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_76
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1239
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f82ad4d0084cd843a39cb723fc4322f
+      internalID: -2129993687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_77
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1240
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db220d5121215543809a70dcbe797ea
+      internalID: -1988857897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_78
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1241
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5a5385292bbe4ab01cc380fa9066b
+      internalID: 310106769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_79
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6145e62e5a7d04098577e9f00261fa
+      internalID: -1877315162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_80
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1241
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2107464593f4a40aeae1e8458c256a
+      internalID: 1245448213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_81
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1241
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39074035d70d8e40b190c3db89c5815
+      internalID: -891721993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_82
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec55e730e4fd349a1fc87d853f573f
+      internalID: -905537416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_83
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 1239
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc2a5f7137e5d4ab8b9603a15bb3ea
+      internalID: 245046136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_84
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7a7741e88dc1f40a5d466d7917ec7e
+      internalID: -1424561550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 958
+        width: 191
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1508d654e4e30554cb3a8556b0c2995e
+      internalID: -2072105852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 958
+        width: 190
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a36deaa1ea214197ede93373d7224
+      internalID: -734311378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 958
+        width: 384
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d0fa3610e85c745b1545278a0e8cab
+      internalID: -781192083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_88
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 958
+        width: 187
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5955d1b32a56ce4796c1e15d8c46d7a
+      internalID: 717523657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_89
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 958
+        width: 188
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2050b7ed22375b84ba3cda16ef2ca617
+      internalID: 516943529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_90
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 958
+        width: 189
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84e03c49cb5d84409d4b5ec3db7dc78
+      internalID: -915083677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_91
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 958
+        width: 190
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ecacd4ff82de84b9ccf815ee220bab
+      internalID: 677497537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_92
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 958
+        width: 184
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66594126bb3e7b64da8066616ab9d853
+      internalID: -81630934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_93
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 949
+        width: 186
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16867b04407d50448ad350e748fb2330
+      internalID: -1165697955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_94
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 946
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3095c272c68ad4eae7212b442ab37a
+      internalID: -1460437710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_95
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 943
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3875c3d3a815849ae495ea82597105
+      internalID: -128842315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_96
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 947
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accb7c642bce22b45a46bfe0e660f8f0
+      internalID: -1174800769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_97
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 947
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381c2738f49da54eaef4190a7a388ef
+      internalID: -27630536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 943
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e539caba491234f8daf248cde50d4f
+      internalID: -627579751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 944
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c326c4592481ef841bce36b0229fd21b
+      internalID: 1796923449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_100
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 946
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0bfdaeaf2428e448ec70e2bfc356db
+      internalID: -1260875220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_101
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 943
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252728d2c07e53a4d9470178f8888bad
+      internalID: -887664936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_102
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 946
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a322cf02d70159d4b9fed87fcf29269c
+      internalID: 1069081988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_103
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 946
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b7b979f800000459c8bef66a347d2d
+      internalID: 461521026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 944
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4684cd75bf927be47a108a8ad59b5fac
+      internalID: -270274967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_105
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 946
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bf7b5c9f93026468cdbab8713d1b5e
+      internalID: 1705699976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_106
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 943
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9966598225c13a479e68938588b9fa7
+      internalID: -633179539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 946
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93b11f763b20c743957390fb941755a
+      internalID: -300478699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_108
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 947
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe68370c71933149a8f36d2ed1af406
+      internalID: -1812663256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_109
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 947
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46931a4deccc02948b32dcb8e5697654
+      internalID: -2064767236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_110
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 947
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb29004a8c054ae40ab216317bb087bd
+      internalID: 868536612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_111
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 947
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d8bbef30b5c1c4aa9beec6b3c06e90
+      internalID: -944870651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_112
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 947
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87466b4dc002cf47a111c1d557e922e
+      internalID: -598261496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_113
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 948
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad6f6e3e46038f4280465b1df35af76
+      internalID: -1449357867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_114
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 940
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffcf496c610f96458c3a9e96488bdf4
+      internalID: -1793127473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_115
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 947
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d93c4bfe402f84086fbd90d0262657
+      internalID: -1608684620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_116
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 948
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0048bdc6ab33614496eae19ae376505
+      internalID: -11640162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_117
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 940
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04df605e6a509784ca23c2131a30ede3
+      internalID: 1090503099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_118
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 947
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e106fdf7a75a140a4b03534351636f
+      internalID: 1816743250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_119
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 949
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae31393f4590a148983f5fe82d753e4
+      internalID: -1963854172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_120
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 941
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6917d9f54cb570b49bf4029d82f3e981
+      internalID: -367667321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_121
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 947
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec595f812aac35744986dd18a3916bb8
+      internalID: 237133610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_122
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 943
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34093d8b062d84e9eb394d08d564e8
+      internalID: -524693938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_123
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 943
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b382ec48bda3284691f7c36a7717218
+      internalID: 342061309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_124
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 940
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca16d88a86a1c2c45b1e77ed39ff6102
+      internalID: 1874354350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_125
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 942
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2674c8855f23e479781fd7e6fe4f65
+      internalID: -2126034083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_126
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 935
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832ae72f9bcf3a49b0f5d2dea92f6e1
+      internalID: -1787933264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_127
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 941
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0222bafdff627484d84675952f54acbc
+      internalID: 888001972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_128
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 937
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e732c647d9f6346b6c308babd568f2
+      internalID: 173458321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_129
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 940
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991110da19fcbdc47acc41db74a8f811
+      internalID: -931524416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_130
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 941
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c469f426842c8fa4397a4ebbfc57dcf4
+      internalID: 1325691236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_131
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 939
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114ebd4e20855a947a2410dc6b9ba544
+      internalID: -904754990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_132
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 940
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722da0472763f7f49a312d9965e07473
+      internalID: 331598586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_133
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 939
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efe77a70901aa3439fe3f8e1265a5c1
+      internalID: 1858391014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_134
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 939
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a12e12cc2e504442a91cd343f7e7617
+      internalID: 367074748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_135
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 937
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ec1554a2db52f45ba50413fe987b58
+      internalID: -1665951711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_136
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 937
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32aad28fad1d645846610c146e8aee
+      internalID: 143487028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_137
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 939
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d37c02a8a8fd946aec9eeee8d79f2d
+      internalID: 630249614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_138
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 939
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bdaa809c4b1e0469cbca07aadead4c
+      internalID: -590697429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_139
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 936
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925a6b1203003a34bbb112ac1ccbaf28
+      internalID: 2083881811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_140
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 936
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b01c7fb2fdd34da628b09e1f61225
+      internalID: 1596367611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_141
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 935
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb69e89f5d9bd641ae9d3b478cf66aa
+      internalID: -1089558271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_142
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 935
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aa96981c5692447b04df361aea37e5
+      internalID: -706673907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_143
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 652
+        width: 187
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b8555a6a395ce4fb99b179b2a8c02f
+      internalID: -290997475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_144
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 644
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfd2e939feedde4f8a4f9208e2cecf0
+      internalID: -1670071139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_145
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 650
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3cf44343d676c41b631e39cd202109
+      internalID: 425720278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_146
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 652
+        width: 181
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631abacb133046a4ba28011a382764d0
+      internalID: -802578997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_147
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 644
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90247587f3aa58248bba9ec1d037dbba
+      internalID: -720729153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_148
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 649
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98482f76184bdd541ac30ded03e9d373
+      internalID: 887897521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_149
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 649
+        width: 182
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6db4d086ca354fb75a96febfbb595
+      internalID: 1712577463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_150
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 644
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bbf781bab2d61419cd03269784f152
+      internalID: 1668739029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_151
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 644
+        width: 181
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2767055a612594dad9cd709953941b
+      internalID: 2142098671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_152
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 643
+        width: 176
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcdbe3084af35e408863ae720f229f5
+      internalID: -1332122352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_153
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 642
+        width: 172
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1987a6a12e01b5d479c2c4f90daa1177
+      internalID: -803515900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_154
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 640
+        width: 173
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a44ffb71c0795743ba31d4479b50ef3
+      internalID: -1487041191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_155
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 637
+        width: 166
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017744ae8d4e9d4dbc1b5e8ea7a4bf8
+      internalID: 1409541372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_156
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 640
+        width: 167
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a0047523527c04fa71afe4a7c7f153
+      internalID: 1503343532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_157
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 638
+        width: 151
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cd32952164ce142ac98e9a3ef8c71e
+      internalID: 2142170145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_158
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 639
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb4ed865cd88245a303fe8bda5ae01
+      internalID: -1344738330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_159
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 642
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bd952bd09c61d4f9e5bd06adeb3a30
+      internalID: 1265778151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_160
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 639
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65c13fc0a0eec649ab4f4d7d867e583
+      internalID: 186514124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_161
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 642
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133664c09c63cb040b1051e49616ba98
+      internalID: 438247789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_162
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 639
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8536e7807bb0034395e64db8b98a20e
+      internalID: 21833281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_163
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 642
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a259b36886996524294a0ff8bd54433e
+      internalID: 431413451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_164
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 639
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c024bd669c912334cbb4c7ba8393c5e1
+      internalID: 925426993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_165
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 643
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ded9b37443eea46991030c5531b443
+      internalID: -1666066910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_166
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 639
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769ed8115371e93459b25c2a59c3f8b8
+      internalID: 2106792018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_167
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 642
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b8865e0d9626048adf447c4fbdce77
+      internalID: -1653760572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_168
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 639
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c958f43868d794f80ae98384f4e2f3
+      internalID: -58427667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_169
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 639
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f8418a54057d84397ce0992d957b4e
+      internalID: -1354442193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_170
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 639
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fa32039b41074bb6c6c064083bede
+      internalID: -119691069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_171
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 639
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe4b5f8c3127a44cb82476a6971d9c9
+      internalID: -2086229192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_172
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 342
+        width: 150
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e811e26c6b4562248997a0161d56c31a
+      internalID: 203163369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_173
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 341
+        width: 151
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613be6692210b84585256058cdf0cec
+      internalID: 1487271096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_174
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 349
+        width: 119
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8253525a8bdef1b4785a54f4a45a545b
+      internalID: -600088895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_175
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 405
+        width: 118
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84a520da3536b04ea77986c4afe62f4
+      internalID: -113546569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_176
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 349
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6a272d3b02a5c448186e296fc399cc
+      internalID: -461731735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_177
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 345
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca1156de981de488f88f5d354e019e
+      internalID: 1117293496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_178
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2017d0b566510498be879c124714dd
+      internalID: -1566133968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_179
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 349
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca3a02a3a6ae0e42ab6def5df799988
+      internalID: 1062384803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_180
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 349
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a5057185e6e5547ad147aee445324c
+      internalID: -161905943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_181
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d1897d655fbc449a47b716ba9e70cc
+      internalID: 1014810816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_182
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 349
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ca1edeec4d0b9429faebc20a825b67
+      internalID: -1842306160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_183
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 345
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694fa296fb0c89c44ae3dc57e20291b8
+      internalID: 981610843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_184
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20e2e3d4438ea3479e05fb6e4697f39
+      internalID: -1396421582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_185
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 349
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623f79029a0265747a41d7961cfe604c
+      internalID: 456390989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_186
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95909104a2820e54fa3df5425292629d
+      internalID: -275841799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_187
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 349
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b13bd0cb88ec459d3dac34032867a
+      internalID: 53887820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_188
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d8c9dedd89d5f4fad9a6d6fa05225e
+      internalID: -992704722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_189
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 349
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c311d3c6eb1cf634896353efa946ae58
+      internalID: -398432272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_190
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd76c21001a68047819fd15e28ff257
+      internalID: 409312476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_191
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 349
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5451a12a3ce74499f735bff913e4b4
+      internalID: -1442011770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_192
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 350
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2a2aeb0b83e8442b582b4145861ab5
+      internalID: 1545838008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_193
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 340
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc34ca886f91be4b954a69f0bd4985a
+      internalID: -1703659157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_194
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 341
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acb49e7f8d06314bb2b779651bb0d03
+      internalID: 1367409344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_195
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 340
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83ba9d4b98a014a8d9719b02c69383
+      internalID: 183959194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_196
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072dea418dbac0242aaf0ce7ac951828
+      internalID: 580373544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_197
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 340
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaec3acc61376243bf3e872cd05f64c
+      internalID: 1853466417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_198
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 341
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587dddfde3e029b44aef158d13e1b425
+      internalID: 981425626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_199
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d19bbb7a2afc0742a9187eaf043e8ee
+      internalID: 1516894209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_200
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 340
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73acc1f9742aa584fa2a5f04c7453b48
+      internalID: -1384224661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_201
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 341
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63b7b61407a26941aa853be51a49d1e
+      internalID: -1487726083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_202
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4faf343b1e3cb4bbb57342ced05b33
+      internalID: -1917384488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_203
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 339
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1751b0b48d8b7d54c8556c72da2f505b
+      internalID: -733671196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_204
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c17070bc6a87e4dabd901c6b6b3498
+      internalID: -154739554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_205
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe06a641eecd7f47a95dcf961a6d2e5
+      internalID: -671563973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_206
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 339
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb27acb126dc043a3d8f66d5ac2118
+      internalID: 1318589566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_207
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 340
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb7301ec2fe024a9abd12e79d3262b
+      internalID: 1281700269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_208
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b196a1558409604f80a6668e3b71748
+      internalID: 622779421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_209
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e910247e458f65428f93651d4911c44
+      internalID: 1764831860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_210
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 340
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce00e234a9faff44bc710575b620737
+      internalID: 1817129816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_211
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5233f976fcca7d4b83bb57d83f405cb
+      internalID: -853959673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_212
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 339
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618d4d29076746448bd5195ab497b6a9
+      internalID: 1301446429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_213
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 340
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a516c678f0dcb1a44b8f291a634c02a6
+      internalID: -1488409121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_214
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548273c9346f54468743169dd194697
+      internalID: -2058625394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_215
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f56ba21c46cd04886e9662ec6bba45
+      internalID: -397798299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_216
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 340
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0361f507ece444fa816db5c4269a70
+      internalID: -1683585874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_217
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 340
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b461d0a2f7271449b89b639e71eefb
+      internalID: 481209247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_218
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 339
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc5a84ad2b0a147b1ba17d20f3a3b3
+      internalID: 1742099190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_219
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 340
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6c8a18e8fc41244a1d5e7fab575a79
+      internalID: -1261845196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_220
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386a204ee0bf8814792121f938544a3c
+      internalID: -1552132199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_221
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 53
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d29f5240e56454a8dc77a0ab86cf5e
+      internalID: -255581406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_222
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 52
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e62069eeec7894b823c2ce70964c81
+      internalID: 1334603099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_223
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 53
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b4a2e4628a5d9499c24a04c36b5ae2
+      internalID: -1493085047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_224
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f9e632054d8742ae73cf4e8bab030
+      internalID: -1107394665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_225
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 52
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfcfa5cea5f35640a6b2e41e438f635
+      internalID: -195869894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_226
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 52
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57495e804dadfc429ea6e92aa9e759b
+      internalID: -1507411487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_227
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 52
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4039f68fd25deff4c9fe11d3abd2fb35
+      internalID: -1149633857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_228
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d405a2e3b2599748b86ff66910179f4
+      internalID: 571250026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_229
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 52
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02611235fbcec0a4fa19639f6cd8174f
+      internalID: 1937890378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_230
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 52
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7d97dbabeaefe468ca919cfe178d1d
+      internalID: -724831911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_231
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 52
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c9411fcd1d8d945ba972185f0aa7cf
+      internalID: -475755035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_232
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7093acb4182c56b44afbbadb02c5dab4
+      internalID: 1959206558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_233
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 52
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b111623c2556a40bcf4a41e764aa32
+      internalID: -1553259164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_234
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9814769e68c5acd47a8f84b962586cde
+      internalID: 1682032534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_235
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 52
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbf76a7453b502448b598b3e5e10c07
+      internalID: 2115096776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_236
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148f91f861eff1a42a63547ed59a2511
+      internalID: 194434244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_237
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 52
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddec7c2645dd2443abc99040a9ed238
+      internalID: -2076272696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_238
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 52
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2fea333ac7b744d830e0acf2e9aec8
+      internalID: 1955496754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_239
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 52
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6ddaa1601d46b43bf9c04d1d7fd911
+      internalID: -1315778668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_240
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 53
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57658b3610713694e9bb102eddde32ac
+      internalID: -1053674357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_241
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 43
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0d786c47d93144b86b70cdb30f9b7c
+      internalID: 1003833915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_242
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f74325a6a1632489a0f2fc7a77bf31
+      internalID: -276116430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_243
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8946bda65361a499b5826c62f9195e
+      internalID: -381670661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_244
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 43
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827e4ba81517d0439e09d7888261773
+      internalID: 153824993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_245
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09d4be448842d4ba94c56e0c0dae28
+      internalID: 516202424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_246
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e130cb8230154428e83a88dbbe959f
+      internalID: -1443548163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_247
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 43
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20f5b6d145570a4b85996f5bd71a6de
+      internalID: -744436101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_248
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a45ccc5ce0024a4bbaac81a7b83828d
+      internalID: 2068174870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_249
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50eb3a5348764547ac88364c696fc59
+      internalID: -1194812584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_250
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 43
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb7c8f7b76bd3e45bc06cd2592d1a5c
+      internalID: -359974246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_251
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacea66f56872704b96ef9c4dcebbaea
+      internalID: -383025077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_252
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3078c61a474e44e89afca3d8fde9f4
+      internalID: 1871612219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_253
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 44
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacd74708c7d8654284bec8b910343a5
+      internalID: -82098311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_254
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5420e4169593da4097905dcc1b14de2
+      internalID: -1806889663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_255
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a46108db7a9548888a8876f80720d
+      internalID: -541896679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_256
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8bdd45684febe438b68affb8d912bd
+      internalID: 209381792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_257
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f27096e9fa3164baf88ede75dd1d3b
+      internalID: -1651832570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_258
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043a26b579ad5447b16369cee3f22a2
+      internalID: -1151534973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_259
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6d76fa631de624d8ea9a718321c610
+      internalID: 856918223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_260
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541a70f9e6d73c43a94ead560e11c33
+      internalID: 361178596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_261
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddbef6af70728549af1b780a9acaa58
+      internalID: -1906455199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_262
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 45
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719091b8785184e4c98bb4602c8dcf99
+      internalID: 1960808930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_263
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff22840d3bbea47a3e5a628998249d
+      internalID: 424645790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_264
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c8dad3e4d63a3468d266694318943b
+      internalID: 225829580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_265
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 46
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9264286918321884a836eaa735c16c5d
+      internalID: -716822939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_266
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00eab97837f54c498973d3c2fb9cf32
+      internalID: -1753616191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_267
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328deecd7c0443447bec2169c55c8377
+      internalID: -1387496937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_268
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 42
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f888f5b8c2779b42ba5d4455859187a
+      internalID: 164428185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cherrybomb_explosion_269
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 42
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601efdd845aa074ca9189f3b6fb9edc
+      internalID: 737326086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 110
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 324
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da9e63a16debbf4b8c6b195acc0e16d
+      internalID: -66394690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 111
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 329
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f48816132f6e04f999c84f31ccf2ef
+      internalID: -1490118224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 112
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 312
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f13a701aaf7b1f4c9785c1702c7d638
+      internalID: 292561697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 113
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 329
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cd6f6a9a7887e4abc1963db970f72a
+      internalID: -477360986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 114
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 322
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc967ea24a18f247868a54571c23697
+      internalID: 226753139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 115
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 313
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb840e0c12ee6f4c8a95e5da8fc9c49
+      internalID: -1151071834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 116
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 297
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da986f9b35e33714084b917a6a028998
+      internalID: 487114764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 117
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 316
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00df132e2a6fdfc4aa69e2ae261a856b
+      internalID: -1663195598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 118
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 28
+        width: 95
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59894f280f8892349bd1c78f237b5a25
+      internalID: 1438868342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca4fb056e5b3f4a8da07f4aa4672b1
+      internalID: -954003732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 26
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f749bf268bf104598ef06054fe61a4
+      internalID: -646974926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -1099587025
+      10: 1168480214
+      11: -848001070
+      110: -66394690
+      111: -1490118224
+      112: 292561697
+      113: -477360986
+      114: 226753139
+      115: -1151071834
+      116: 487114764
+      117: -1663195598
+      118: 1438868342
+      119: -954003732
+      12: 1660440440
+      120: -646974926
+      13: 1228713334
+      14: 697589366
+      15: -1157149131
+      16: 2121946061
+      2: -286156423
+      3: -80183529
+      4: -1105015640
+      5: 1007001705
+      6: 947789243
+      7: 1982610974
+      8: -1473327061
+      9: -538477471
+      cherrybomb_explosion_100: -1260875220
+      cherrybomb_explosion_101: -887664936
+      cherrybomb_explosion_102: 1069081988
+      cherrybomb_explosion_103: 461521026
+      cherrybomb_explosion_104: -270274967
+      cherrybomb_explosion_105: 1705699976
+      cherrybomb_explosion_106: -633179539
+      cherrybomb_explosion_107: -300478699
+      cherrybomb_explosion_108: -1812663256
+      cherrybomb_explosion_109: -2064767236
+      cherrybomb_explosion_110: 868536612
+      cherrybomb_explosion_111: -944870651
+      cherrybomb_explosion_112: -598261496
+      cherrybomb_explosion_113: -1449357867
+      cherrybomb_explosion_114: -1793127473
+      cherrybomb_explosion_115: -1608684620
+      cherrybomb_explosion_116: -11640162
+      cherrybomb_explosion_117: 1090503099
+      cherrybomb_explosion_118: 1816743250
+      cherrybomb_explosion_119: -1963854172
+      cherrybomb_explosion_120: -367667321
+      cherrybomb_explosion_121: 237133610
+      cherrybomb_explosion_122: -524693938
+      cherrybomb_explosion_123: 342061309
+      cherrybomb_explosion_124: 1874354350
+      cherrybomb_explosion_125: -2126034083
+      cherrybomb_explosion_126: -1787933264
+      cherrybomb_explosion_127: 888001972
+      cherrybomb_explosion_128: 173458321
+      cherrybomb_explosion_129: -931524416
+      cherrybomb_explosion_13: -2024723170
+      cherrybomb_explosion_130: 1325691236
+      cherrybomb_explosion_131: -904754990
+      cherrybomb_explosion_132: 331598586
+      cherrybomb_explosion_133: 1858391014
+      cherrybomb_explosion_134: 367074748
+      cherrybomb_explosion_135: -1665951711
+      cherrybomb_explosion_136: 143487028
+      cherrybomb_explosion_137: 630249614
+      cherrybomb_explosion_138: -590697429
+      cherrybomb_explosion_139: 2083881811
+      cherrybomb_explosion_140: 1596367611
+      cherrybomb_explosion_141: -1089558271
+      cherrybomb_explosion_142: -706673907
+      cherrybomb_explosion_143: -290997475
+      cherrybomb_explosion_144: -1670071139
+      cherrybomb_explosion_145: 425720278
+      cherrybomb_explosion_146: -802578997
+      cherrybomb_explosion_147: -720729153
+      cherrybomb_explosion_148: 887897521
+      cherrybomb_explosion_149: 1712577463
+      cherrybomb_explosion_150: 1668739029
+      cherrybomb_explosion_151: 2142098671
+      cherrybomb_explosion_152: -1332122352
+      cherrybomb_explosion_153: -803515900
+      cherrybomb_explosion_154: -1487041191
+      cherrybomb_explosion_155: 1409541372
+      cherrybomb_explosion_156: 1503343532
+      cherrybomb_explosion_157: 2142170145
+      cherrybomb_explosion_158: -1344738330
+      cherrybomb_explosion_159: 1265778151
+      cherrybomb_explosion_160: 186514124
+      cherrybomb_explosion_161: 438247789
+      cherrybomb_explosion_162: 21833281
+      cherrybomb_explosion_163: 431413451
+      cherrybomb_explosion_164: 925426993
+      cherrybomb_explosion_165: -1666066910
+      cherrybomb_explosion_166: 2106792018
+      cherrybomb_explosion_167: -1653760572
+      cherrybomb_explosion_168: -58427667
+      cherrybomb_explosion_169: -1354442193
+      cherrybomb_explosion_17: -1922675856
+      cherrybomb_explosion_170: -119691069
+      cherrybomb_explosion_171: -2086229192
+      cherrybomb_explosion_172: 203163369
+      cherrybomb_explosion_173: 1487271096
+      cherrybomb_explosion_174: -600088895
+      cherrybomb_explosion_175: -113546569
+      cherrybomb_explosion_176: -461731735
+      cherrybomb_explosion_177: 1117293496
+      cherrybomb_explosion_178: -1566133968
+      cherrybomb_explosion_179: 1062384803
+      cherrybomb_explosion_18: 792219086
+      cherrybomb_explosion_180: -161905943
+      cherrybomb_explosion_181: 1014810816
+      cherrybomb_explosion_182: -1842306160
+      cherrybomb_explosion_183: 981610843
+      cherrybomb_explosion_184: -1396421582
+      cherrybomb_explosion_185: 456390989
+      cherrybomb_explosion_186: -275841799
+      cherrybomb_explosion_187: 53887820
+      cherrybomb_explosion_188: -992704722
+      cherrybomb_explosion_189: -398432272
+      cherrybomb_explosion_19: -1609879911
+      cherrybomb_explosion_190: 409312476
+      cherrybomb_explosion_191: -1442011770
+      cherrybomb_explosion_192: 1545838008
+      cherrybomb_explosion_193: -1703659157
+      cherrybomb_explosion_194: 1367409344
+      cherrybomb_explosion_195: 183959194
+      cherrybomb_explosion_196: 580373544
+      cherrybomb_explosion_197: 1853466417
+      cherrybomb_explosion_198: 981425626
+      cherrybomb_explosion_199: 1516894209
+      cherrybomb_explosion_20: -1546585601
+      cherrybomb_explosion_200: -1384224661
+      cherrybomb_explosion_201: -1487726083
+      cherrybomb_explosion_202: -1917384488
+      cherrybomb_explosion_203: -733671196
+      cherrybomb_explosion_204: -154739554
+      cherrybomb_explosion_205: -671563973
+      cherrybomb_explosion_206: 1318589566
+      cherrybomb_explosion_207: 1281700269
+      cherrybomb_explosion_208: 622779421
+      cherrybomb_explosion_209: 1764831860
+      cherrybomb_explosion_21: 145948487
+      cherrybomb_explosion_210: 1817129816
+      cherrybomb_explosion_211: -853959673
+      cherrybomb_explosion_212: 1301446429
+      cherrybomb_explosion_213: -1488409121
+      cherrybomb_explosion_214: -2058625394
+      cherrybomb_explosion_215: -397798299
+      cherrybomb_explosion_216: -1683585874
+      cherrybomb_explosion_217: 481209247
+      cherrybomb_explosion_218: 1742099190
+      cherrybomb_explosion_219: -1261845196
+      cherrybomb_explosion_22: 1428925688
+      cherrybomb_explosion_220: -1552132199
+      cherrybomb_explosion_221: -255581406
+      cherrybomb_explosion_222: 1334603099
+      cherrybomb_explosion_223: -1493085047
+      cherrybomb_explosion_224: -1107394665
+      cherrybomb_explosion_225: -195869894
+      cherrybomb_explosion_226: -1507411487
+      cherrybomb_explosion_227: -1149633857
+      cherrybomb_explosion_228: 571250026
+      cherrybomb_explosion_229: 1937890378
+      cherrybomb_explosion_23: -161511307
+      cherrybomb_explosion_230: -724831911
+      cherrybomb_explosion_231: -475755035
+      cherrybomb_explosion_232: 1959206558
+      cherrybomb_explosion_233: -1553259164
+      cherrybomb_explosion_234: 1682032534
+      cherrybomb_explosion_235: 2115096776
+      cherrybomb_explosion_236: 194434244
+      cherrybomb_explosion_237: -2076272696
+      cherrybomb_explosion_238: 1955496754
+      cherrybomb_explosion_239: -1315778668
+      cherrybomb_explosion_24: 1227613834
+      cherrybomb_explosion_240: -1053674357
+      cherrybomb_explosion_241: 1003833915
+      cherrybomb_explosion_242: -276116430
+      cherrybomb_explosion_243: -381670661
+      cherrybomb_explosion_244: 153824993
+      cherrybomb_explosion_245: 516202424
+      cherrybomb_explosion_246: -1443548163
+      cherrybomb_explosion_247: -744436101
+      cherrybomb_explosion_248: 2068174870
+      cherrybomb_explosion_249: -1194812584
+      cherrybomb_explosion_25: 213895761
+      cherrybomb_explosion_250: -359974246
+      cherrybomb_explosion_251: -383025077
+      cherrybomb_explosion_252: 1871612219
+      cherrybomb_explosion_253: -82098311
+      cherrybomb_explosion_254: -1806889663
+      cherrybomb_explosion_255: -541896679
+      cherrybomb_explosion_256: 209381792
+      cherrybomb_explosion_257: -1651832570
+      cherrybomb_explosion_258: -1151534973
+      cherrybomb_explosion_259: 856918223
+      cherrybomb_explosion_26: 216207625
+      cherrybomb_explosion_260: 361178596
+      cherrybomb_explosion_261: -1906455199
+      cherrybomb_explosion_262: 1960808930
+      cherrybomb_explosion_263: 424645790
+      cherrybomb_explosion_264: 225829580
+      cherrybomb_explosion_265: -716822939
+      cherrybomb_explosion_266: -1753616191
+      cherrybomb_explosion_267: -1387496937
+      cherrybomb_explosion_268: 164428185
+      cherrybomb_explosion_269: 737326086
+      cherrybomb_explosion_27: 383170261
+      cherrybomb_explosion_28: 1080889042
+      cherrybomb_explosion_29: -1124045861
+      cherrybomb_explosion_30: -1713776464
+      cherrybomb_explosion_31: -148740191
+      cherrybomb_explosion_32: -1916228305
+      cherrybomb_explosion_33: -1924912590
+      cherrybomb_explosion_34: 1155545513
+      cherrybomb_explosion_35: 1119526150
+      cherrybomb_explosion_36: -619410210
+      cherrybomb_explosion_37: -1058299380
+      cherrybomb_explosion_38: -829578248
+      cherrybomb_explosion_39: 1426076469
+      cherrybomb_explosion_40: 1986492649
+      cherrybomb_explosion_41: -1349891877
+      cherrybomb_explosion_42: -702334301
+      cherrybomb_explosion_43: 994139509
+      cherrybomb_explosion_44: 281647108
+      cherrybomb_explosion_45: -133927060
+      cherrybomb_explosion_46: 822976175
+      cherrybomb_explosion_47: 1239731680
+      cherrybomb_explosion_48: 1185120915
+      cherrybomb_explosion_49: 296844390
+      cherrybomb_explosion_50: -1688694193
+      cherrybomb_explosion_51: -163387434
+      cherrybomb_explosion_52: 1946192403
+      cherrybomb_explosion_53: -222870364
+      cherrybomb_explosion_54: -2085576656
+      cherrybomb_explosion_55: -544281899
+      cherrybomb_explosion_56: 1933691105
+      cherrybomb_explosion_57: 1911247258
+      cherrybomb_explosion_58: -842319385
+      cherrybomb_explosion_59: -1690226151
+      cherrybomb_explosion_60: 208725595
+      cherrybomb_explosion_61: 1782439889
+      cherrybomb_explosion_62: -1206538662
+      cherrybomb_explosion_63: 853436518
+      cherrybomb_explosion_64: -1651489384
+      cherrybomb_explosion_65: -975527
+      cherrybomb_explosion_66: -1996588912
+      cherrybomb_explosion_67: -257389947
+      cherrybomb_explosion_68: -649155416
+      cherrybomb_explosion_69: -1746503141
+      cherrybomb_explosion_70: -1373579026
+      cherrybomb_explosion_71: -1730003440
+      cherrybomb_explosion_72: 1215890905
+      cherrybomb_explosion_73: -654520274
+      cherrybomb_explosion_74: -416724043
+      cherrybomb_explosion_75: -795445891
+      cherrybomb_explosion_76: -2129993687
+      cherrybomb_explosion_77: -1988857897
+      cherrybomb_explosion_78: 310106769
+      cherrybomb_explosion_79: -1877315162
+      cherrybomb_explosion_80: 1245448213
+      cherrybomb_explosion_81: -891721993
+      cherrybomb_explosion_82: -905537416
+      cherrybomb_explosion_83: 245046136
+      cherrybomb_explosion_84: -1424561550
+      cherrybomb_explosion_85: -2072105852
+      cherrybomb_explosion_86: -734311378
+      cherrybomb_explosion_87: -781192083
+      cherrybomb_explosion_88: 717523657
+      cherrybomb_explosion_89: 516943529
+      cherrybomb_explosion_90: -915083677
+      cherrybomb_explosion_91: 677497537
+      cherrybomb_explosion_92: -81630934
+      cherrybomb_explosion_93: -1165697955
+      cherrybomb_explosion_94: -1460437710
+      cherrybomb_explosion_95: -128842315
+      cherrybomb_explosion_96: -1174800769
+      cherrybomb_explosion_97: -27630536
+      cherrybomb_explosion_98: -627579751
+      cherrybomb_explosion_99: 1796923449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
