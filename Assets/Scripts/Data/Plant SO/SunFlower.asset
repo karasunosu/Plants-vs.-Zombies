@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa6cce9f105cb6b4bbac95cfb4b44475, type: 3}
   m_Name: SunFlower
   m_EditorClassIdentifier: Assembly-CSharp::PlantCard
-  cardImage: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 71febdad16c1c0a49a2e0bdd2477a0f0, type: 3}
   sunCost: 50
   cooldown: 2

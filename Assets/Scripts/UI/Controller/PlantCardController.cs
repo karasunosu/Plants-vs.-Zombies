@@ -4,14 +4,14 @@ using UnityEngine;
 using UnityEngine.UI;
 
 // Read PlantCard SO and display them in the UI
-// Trong hierachy, object luu anh plant phai de ten la seed (doan nay hardcode chua viet xu ly sao)
+// Trong hierachy, object luu anh plant phai de ten la seed (doan nay hardcode chua biet xu ly sao)
 
 public class PlantCardController : MonoBehaviour
 {
     [Header("Cards Parameters")]
     public int amountOfCards;
     public PlantCard[] plantCardSO; // du lieu plant so
-    public GameObject plantPrefab; // prefab de day du lieu plant vao
+    public GameObject plantCardPrefab; // prefab de day du lieu plant vao
     public Transform plantCardTransform;
 
     [Header("Plants Parameters")]
@@ -30,10 +30,11 @@ public class PlantCardController : MonoBehaviour
 
     public void AddPlantCard(int index)
     {
-        GameObject card = Instantiate(plantPrefab, plantCardTransform);
+        GameObject card = Instantiate(plantCardPrefab, plantCardTransform);
 
         plantCards.Add(card);
 
         card.GetComponent<PlantCardView>().setData(plantCardSO[index]);
+        card.GetComponent<PlacementManager>().setPlantSO(plantCardSO[index]);
     }
 }

@@ -18,7 +18,7 @@ public class PlantCardView : MonoBehaviour
         // Lay du lieu
         sunCost = plantCardSO.sunCost;
         cooldown = plantCardSO.cooldown;
-        cardImage = plantCardSO.cardImage;
+        cardImage = plantCardSO.sprite;
 
         // Day du lieu vao card
         transform.Find("seed").GetComponent<Image>().sprite = cardImage;

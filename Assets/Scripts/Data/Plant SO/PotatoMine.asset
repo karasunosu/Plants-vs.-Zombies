@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fa6cce9f105cb6b4bbac95cfb4b44475, type: 3}
-  m_Name: CherryBomb
+  m_Name: PotatoMine
   m_EditorClassIdentifier: Assembly-CSharp::PlantCard
-  sprite: {fileID: 21300000, guid: 1596aa0a99d2512439162591c7ab98f5, type: 3}
-  sunCost: 150
+  sprite: {fileID: 21300000, guid: 421615bcecbea1b469b1fa5c6adaa35a, type: 3}
+  sunCost: 25
   cooldown: 2

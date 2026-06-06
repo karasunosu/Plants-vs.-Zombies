@@ -301,7 +301,9 @@ GameObject:
   - component: {fileID: 4389257593240184950}
   - component: {fileID: 1411440418346956255}
   - component: {fileID: 7430336892989710148}
+  - component: {fileID: -1504481587879989751}
   - component: {fileID: 3045172285189075806}
+  - component: {fileID: 6337720210803473403}
   m_Layer: 5
   m_Name: Plant Card
   m_TagString: Untagged
@@ -395,6 +397,18 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!225 &-1504481587879989751
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5195059938796198109}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!114 &3045172285189075806
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -407,7 +421,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c80c5bce0cbb1234fac4f510dc08651f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlantCardView
-  plantCards: []
+--- !u!114 &6337720210803473403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5195059938796198109}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a43e187a3f148e48b383413bf2d240a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlacementManager
+  plantImagePrefab: {fileID: 4853662097175910753, guid: f6ca0cf65b13d3d48a20294395cf1f71, type: 3}
 --- !u!1 &8878583847076065920
 GameObject:
   m_ObjectHideFlags: 0
