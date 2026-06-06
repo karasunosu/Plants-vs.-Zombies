@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,7 +67,7 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -80,7 +80,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -93,7 +93,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,7 +106,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -121,8 +121,1021 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4401373556131db42bc35b001a48c9d2
+      internalID: -2024236030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 720
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee8ae337e4ad549a70fa440d1f7a9a
+      internalID: 1752077714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 720
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee4b29b8cfd2e45a72c15694a1dbc6
+      internalID: 1222175764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 720
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f751a24924e8a4ab15d649c113a865
+      internalID: -1349774233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 720
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c86e51933efc4e87cb71e98d608a9
+      internalID: 388678903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 720
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31161ba07a5ca714fa17531efc98b233
+      internalID: 1486031996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 720
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebc96c1e8ed14645ada536621163753
+      internalID: -1541019971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_7
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 720
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd9a2b3f9fde9f4ab01413a7628a8fa
+      internalID: 1411606822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4023a87717fb4418692a096453665b
+      internalID: 392043553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7388a8a3f58594dbabf05ed1edf5a0
+      internalID: -884044730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b9d41bf76a86845bd7fc88b5e60a22
+      internalID: 908815639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc0994ab79bd44ba2708055c5db96c
+      internalID: 85324268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d34065a8565154ab11f454ef9848aa
+      internalID: -1198215218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf80697122a4e44b997b0d071af259
+      internalID: 689238774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083982aa11bd51d4ab16d65530f16a39
+      internalID: -1620582984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_15
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636d40de18f0f15409b108ea7874ab4d
+      internalID: -588028480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac368afa656c644cba86ecedf7ecdd0
+      internalID: -1810663417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9594a648fa96c4199aa9d7f30289e8
+      internalID: 1314317454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288708fd9042e32428ba3ebce03791a6
+      internalID: 429640575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e3d230bfc776c489eb4506e71ae18d
+      internalID: 1282222796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_20
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608a39a64f562904ca272f637f672744
+      internalID: -1261789007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_21
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f22f23c27447a4fa978c9b940ff91e
+      internalID: 651225034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_22
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cb71cd480204f4a8f839358b61490f
+      internalID: -1023685832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_23
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a403d028f0f7e4e84f81b3eee3c2a9
+      internalID: -58779457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23064aa476365498af9f8c286eb748
+      internalID: 705416240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c133edf2eb7f7c4f8c3b6b14245f633
+      internalID: 1961946450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b203c49b847524d85b5f89bf03c8b6
+      internalID: -1027722549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4229804c8a77418eac9a4851ac04a
+      internalID: 2368516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a6945ec643d547aa6392b260aa2fd
+      internalID: -967061493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_29
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2b61e052ddf1642a2e907aba70147d
+      internalID: -1879748737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5085f26ca5f54439fcae2f209ec473
+      internalID: 41056745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_31
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e7d174aedcf946af0e95a78dd7fc3
+      internalID: -258622238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4dbebc4a723114b879cf1fe27b3b50
+      internalID: -259117205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711a577a931264a45be380cbccd7335f
+      internalID: 207518495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b886f2a424ce4c240ab0cfc758a8ad9d
+      internalID: -2064314704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bc154320ccda047970e4dd05efa556
+      internalID: 104927483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e37ebda1c5bc4298e06026637d522
+      internalID: 258183113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_37
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28bc2a4f4e36504c87698f324e80f90
+      internalID: -1537713358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_38
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38dc8df2ca8c3e46b39b6edb096d509
+      internalID: -372285493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_39
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e9f5707dbf9f548903d6252e9ade33
+      internalID: -1307441911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a60459016d4074196e41d1f08c9c23
+      internalID: -77360250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0ee95332b8404c8a911c793495c53
+      internalID: -2086927063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df1a4c91aef7c84890f65cc1a9bd1b8
+      internalID: -972544256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb657b037389ced44b42c0fd3d7cc34c
+      internalID: 2053671251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_44
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338ebe1175e927a4194bb5f6c2004591
+      internalID: 233488433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlagZombieWalk2_2_45
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29deaee51cbaa14d9ef2d230d79ee0d
+      internalID: 230018221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
@@ -132,7 +1145,57 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":166.0,"y":144.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FlagZombieWalk2_2_0: -2024236030
+      FlagZombieWalk2_2_1: 1752077714
+      FlagZombieWalk2_2_10: 908815639
+      FlagZombieWalk2_2_11: 85324268
+      FlagZombieWalk2_2_12: -1198215218
+      FlagZombieWalk2_2_13: 689238774
+      FlagZombieWalk2_2_14: -1620582984
+      FlagZombieWalk2_2_15: -588028480
+      FlagZombieWalk2_2_16: -1810663417
+      FlagZombieWalk2_2_17: 1314317454
+      FlagZombieWalk2_2_18: 429640575
+      FlagZombieWalk2_2_19: 1282222796
+      FlagZombieWalk2_2_2: 1222175764
+      FlagZombieWalk2_2_20: -1261789007
+      FlagZombieWalk2_2_21: 651225034
+      FlagZombieWalk2_2_22: -1023685832
+      FlagZombieWalk2_2_23: -58779457
+      FlagZombieWalk2_2_24: 705416240
+      FlagZombieWalk2_2_25: 1961946450
+      FlagZombieWalk2_2_26: -1027722549
+      FlagZombieWalk2_2_27: 2368516
+      FlagZombieWalk2_2_28: -967061493
+      FlagZombieWalk2_2_29: -1879748737
+      FlagZombieWalk2_2_3: -1349774233
+      FlagZombieWalk2_2_30: 41056745
+      FlagZombieWalk2_2_31: -258622238
+      FlagZombieWalk2_2_32: -259117205
+      FlagZombieWalk2_2_33: 207518495
+      FlagZombieWalk2_2_34: -2064314704
+      FlagZombieWalk2_2_35: 104927483
+      FlagZombieWalk2_2_36: 258183113
+      FlagZombieWalk2_2_37: -1537713358
+      FlagZombieWalk2_2_38: -372285493
+      FlagZombieWalk2_2_39: -1307441911
+      FlagZombieWalk2_2_4: 388678903
+      FlagZombieWalk2_2_40: -77360250
+      FlagZombieWalk2_2_41: -2086927063
+      FlagZombieWalk2_2_42: -972544256
+      FlagZombieWalk2_2_43: 2053671251
+      FlagZombieWalk2_2_44: 233488433
+      FlagZombieWalk2_2_45: 230018221
+      FlagZombieWalk2_2_5: 1486031996
+      FlagZombieWalk2_2_6: -1541019971
+      FlagZombieWalk2_2_7: 1411606822
+      FlagZombieWalk2_2_8: 392043553
+      FlagZombieWalk2_2_9: -884044730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

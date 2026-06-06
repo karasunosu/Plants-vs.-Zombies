@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,7 +67,7 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -80,7 +80,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -93,7 +93,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,7 +106,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -121,8 +121,867 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ArmlessAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227a3d7465abcdd43b194e0f75246700
+      internalID: 21716948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d055505fc7426b14bafdf23610c7e887
+      internalID: 1512340531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f088f04fd2db249a53e6339b0ad09c
+      internalID: 1305094450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1078446deea70bf40a11ea2737efd52b
+      internalID: -1713429496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530aee358a4be8b4a8cbbe114872f931
+      internalID: 192445319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef162ab870895b49987b7ee95ea5fcb
+      internalID: -1218902725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324e8fd02a1b3544dbd7eb87de314925
+      internalID: -783001855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 576
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5ad26c71dfe04e8b779ef57829c01
+      internalID: -475238207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f4f3b3a8824144af0f7e5f51ccb5c
+      internalID: -299520374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330aedf08d443f544bf5734f878dfd76
+      internalID: 305178291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c756ae79d6b36934596ab722402cef23
+      internalID: -1710791076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d84eb8ac9aa6324c83831441c203e59
+      internalID: 881579083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d095c78fbc123dd4db7aacd256ff0763
+      internalID: 1516891902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67d08869e7ade145b4e886b3e1d4687
+      internalID: -1303829284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24b2c32ace0993498f53056995c79b1
+      internalID: -864525617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 432
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97370421591d6354e8bff28926d6147e
+      internalID: 129312388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88cefe7fe8517a47b8fd619e081d3c9
+      internalID: -216331803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b786fd0cc2f1c19479970fb4b77dba68
+      internalID: 2068539035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e99326a86502d42a6d24cca8f63018
+      internalID: -457518133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a4d9aa7de9df24abd2cbe9eed69b58
+      internalID: -895518340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_20
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ef163dbe29734c8ea0985c193813a
+      internalID: -125393006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_21
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9c30fe42369d74bb08f5b5b93698b0
+      internalID: 900207737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_22
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d87f2407b7ba9c49ac6c4543772c6b2
+      internalID: 1808170457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 288
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad0c31374e7d6448d422a84313a1d8
+      internalID: -864514147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2554b959fdd2f4185459f1e702e6d1
+      internalID: 1571796170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1cfb027bed6d54994dddebac738fc3
+      internalID: -936951498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dde222c4eca6b4186db7ebbdc2d79f
+      internalID: 523278461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_27
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d1ea3cc71878e48b3836e1fba570e0
+      internalID: -1465912636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_28
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7bade0efc9744491e03f6e91c26f7
+      internalID: -1776867302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_29
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af5ccededd069b45b107f99cc5f70b2
+      internalID: -2074851842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5428164de6a55f04a8fee6445af87baf
+      internalID: 1450662320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_31
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 144
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c317a7ef2ebd09d488e95aba4248eb78
+      internalID: 670667042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89cd5a739b1f3488472fa5a3759cf2
+      internalID: -1738019457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603ea9d461784db4a8fe7c8516b3e64c
+      internalID: -91416533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c6dee83e0c7a34882e8ef7ad283f63
+      internalID: 183728425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097928d29796fe243a1ba211c2ce7d4a
+      internalID: 1879192210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4741d71e8ecd34ebe60c2c2739e13a
+      internalID: 906722631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_37
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff9b46b634d95c47bc1c7c864f7517f
+      internalID: -1186654562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmlessAttack_38
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 166
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be647721a2f67704ea1595e3c9e9f26b
+      internalID: 288507647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
@@ -132,7 +991,50 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":3.0},"gridSpriteSize":{"x":166.0,"y":144.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ArmlessAttack_0: 21716948
+      ArmlessAttack_1: 1512340531
+      ArmlessAttack_10: -1710791076
+      ArmlessAttack_11: 881579083
+      ArmlessAttack_12: 1516891902
+      ArmlessAttack_13: -1303829284
+      ArmlessAttack_14: -864525617
+      ArmlessAttack_15: 129312388
+      ArmlessAttack_16: -216331803
+      ArmlessAttack_17: 2068539035
+      ArmlessAttack_18: -457518133
+      ArmlessAttack_19: -895518340
+      ArmlessAttack_2: 1305094450
+      ArmlessAttack_20: -125393006
+      ArmlessAttack_21: 900207737
+      ArmlessAttack_22: 1808170457
+      ArmlessAttack_23: -864514147
+      ArmlessAttack_24: 1571796170
+      ArmlessAttack_25: -936951498
+      ArmlessAttack_26: 523278461
+      ArmlessAttack_27: -1465912636
+      ArmlessAttack_28: -1776867302
+      ArmlessAttack_29: -2074851842
+      ArmlessAttack_3: -1713429496
+      ArmlessAttack_30: 1450662320
+      ArmlessAttack_31: 670667042
+      ArmlessAttack_32: -1738019457
+      ArmlessAttack_33: -91416533
+      ArmlessAttack_34: 183728425
+      ArmlessAttack_35: 1879192210
+      ArmlessAttack_36: 906722631
+      ArmlessAttack_37: -1186654562
+      ArmlessAttack_38: 288507647
+      ArmlessAttack_4: 192445319
+      ArmlessAttack_5: -1218902725
+      ArmlessAttack_6: -783001855
+      ArmlessAttack_7: -475238207
+      ArmlessAttack_8: -299520374
+      ArmlessAttack_9: 305178291
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,7 +67,7 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -80,7 +80,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -93,7 +93,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,7 +106,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -121,8 +121,3925 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: cone1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa83a71bfb049a419c2eb022e67e252
+      internalID: 1152990050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486d74406225154c8b84362db154b4d
+      internalID: 1528388737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fda640f9ad8384397613d5191d7540
+      internalID: -1474124166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ee02a948c55c14dbb1e56101c9cfaa
+      internalID: 866373046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb78c4edd3d9a64caf9e54c3e837a6c
+      internalID: 1358960110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9258ff7c0302847877dd72f45879a0
+      internalID: 2032589590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c06790257c50e54a9212ddddd3262ec
+      internalID: -418674440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbd99db2f4b8fe4586f8fee09864199
+      internalID: 1801738926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_8
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f18cf117c7f9b48b35a3ed15fc155e
+      internalID: -544181515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a836153acd34ab43bf511626898c3da
+      internalID: 1723453030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_10
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca54ca2000257844bf8269edc5cb618
+      internalID: -785660197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a117d7e000f38dc45b5709a018a07c1a
+      internalID: -1795227630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_12
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 884
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cede18aee43524592873107d729729
+      internalID: -1404813846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fff7dc714a881429f0282dab569a45
+      internalID: -1009528682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30199d96a8a1d4aa46dbe46fef71ae
+      internalID: -427130981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c8dc0001c79644b7231f571fd0557
+      internalID: -1343497555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be67da112722f4ebbc9240f5d159f6
+      internalID: -1470534898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5b8f31b1690c4c917bcbca38c6ecd
+      internalID: 618014386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff1c1808a25ae49a3f9f5f257a67f1
+      internalID: -1655217501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d42bdc41cc694741a248b3b701154a3
+      internalID: 2037177075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_20
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9f231e378742a44b06b58ee45cdc5e
+      internalID: -2079760812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3442d728ed3840649ab7fcfe07ee5d50
+      internalID: -2038635220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4452ec5570ca0da4aa8f910cee573a3d
+      internalID: 766358967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4fef6de128fe4781df7d7d62eedde
+      internalID: 1932398848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_24
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bf8039b24a8524ba72b013a7ee311e
+      internalID: -1437578843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_25
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 816
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bf6f596eba51d41b3ba1d62b38f828
+      internalID: -47477214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c2d129e14327346828cc0849988528
+      internalID: 376442661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34063f36c320d5b46aeb65cc0f5d63de
+      internalID: -1557598315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57679ca2a84e0408d4090044a7a8f9
+      internalID: -149436078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481218046221f747b314a269b596dd5
+      internalID: 1340053462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd25c3886a6619469329d3bd1e87264
+      internalID: -1688253025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c5c7c2e8d431b43a5c96935496177a
+      internalID: -2054025986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d3de678c9d0c64e92c3ee4a71bb106
+      internalID: -741881563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_33
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5d0fd80463c184f9ddceaa91e20f49
+      internalID: 396847588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_34
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6557b396ec6ec9546ad81e79dee1c8f7
+      internalID: 704260499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_35
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b85bf88da216944dac4b1a64991e573
+      internalID: 1538108103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_36
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356dab76750ad784d9dfbef43f398919
+      internalID: 1651673002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_37
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce536e8fea40d4c919eba5cf3efb72
+      internalID: -342919277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 748
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dc24466c8966c41b10c400bacd0043
+      internalID: -204756521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf89b676f1065d41a4a24e09c4aa595
+      internalID: -162447227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f74cfb81dd14245a798c6165bd29fd
+      internalID: 1871883370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e11cb4bf9965e4c8d36163ab1eef50
+      internalID: 91487651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30e08c5dc1b644c8f302263ef75c26
+      internalID: -2107421202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c50a12f5a6cc4db212e8a050c06e0
+      internalID: -1126502357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68b5d8b2483d946ad7e9e38fd19d3d
+      internalID: -1282837066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_45
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc933983f6848242b00faee0e98d874
+      internalID: -515738042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_46
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f409d23358da9546b5b3577748b232c
+      internalID: 140913903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_47
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdae49a0b27c494a9965909ed371663
+      internalID: 358085982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_48
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd790dc156389479ee1a3895b92040
+      internalID: 83406889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_49
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b817cc978224420418f17b23c87557c3
+      internalID: 660596670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_50
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0ce129f10fe59408984a2c31e091b1
+      internalID: 445577359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_51
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 680
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2df199eb21300b49814f72db548d9d8
+      internalID: 1186645442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3298dbf702744cb416bd101d0fb8b
+      internalID: -1634803542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4e5d5a188474649927c45cf98ece04
+      internalID: -862923741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f2ac3d8c90c74daab66922a234b6d
+      internalID: -1522395304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_55
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2897be1927012248afdb0075a59f1cd
+      internalID: 251046983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc45bc07f47897144b6eee001e81ebe6
+      internalID: 1307668137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_57
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16aa87d9fe5ed04b89bd5ddd8e4dbca
+      internalID: 1921088405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_58
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ad5e652d4c255499077a854e2b27d8
+      internalID: -1778071030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fee4e1e274ebf64b836954006297016
+      internalID: 666247093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_60
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5eda64f15b014d84c0687cae62804
+      internalID: -458750014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_61
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c6ab12d72ba9c4a99e606c7ac3fa8a
+      internalID: 1251836560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_62
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5d6ac1f5705b48a6c35bbc46c53ae
+      internalID: -404894791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_63
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae5d606068af3144acf969001c68fc9
+      internalID: 1263050091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_64
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 612
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8017a772d32687e469028d46800aa1c8
+      internalID: -1288243181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaf5fbd6e5b94340a0afad76ef6c446
+      internalID: 763016876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_66
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2c1a01c95418b4e904bc5bdcb1b0e2
+      internalID: -1940404786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2154a8879817a954aaf13b9b176964d2
+      internalID: -1706637128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_68
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb1b343982c544e87907189a02864c
+      internalID: -680481372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83860e4d3dae29447a0f9d71e9e06de4
+      internalID: 462015254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_70
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a33458a77d37245a98927f04d55d95
+      internalID: 778754170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218ceacd86546eb408f89b1f050f55ea
+      internalID: 1575555074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_72
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a9381a47a60864b8549f97d90bd0b8
+      internalID: -1283284556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_73
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799233551d1e4704ba28056b460952c0
+      internalID: 1514120609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_74
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c6b5d623c28046b07e7e2d31f655c
+      internalID: 146741345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_75
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9144ec03febfa3e4b97745026d03dfbb
+      internalID: -1431989453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_76
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213d5ae27e149e4c9fb52e0e5e44ee1
+      internalID: 1585589721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_77
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 544
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f60fd65cdbf7a4c94f8207c57328c3
+      internalID: 1550714581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3030530a0bca2478539a39f6dcb7af
+      internalID: 1938048515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_79
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7506efafec2ba64591ab48dce046c9c
+      internalID: 1531195337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e62d77b992b6d47b1fd0c179a8cf53
+      internalID: -1093241312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_81
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dde5f96f58c8743852a0f2585cd940
+      internalID: 1538739735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_82
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7211c627a2874149805fa85484fda36
+      internalID: -317806739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_83
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acedf1ae94e780f4783f23a2c95b09e8
+      internalID: -927699340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86268be1a11feba4d8f61ba83c04608f
+      internalID: 1334474808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_85
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a898e0f7f438e41a7caee8e38f3cde
+      internalID: 49139512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cc1ae4b8fd1ad46a4b52bdef03c31c
+      internalID: 1198242899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_87
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95957b1e6bd3e54d8b5add29b2a78bf
+      internalID: -379447790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_88
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0714d99a80a4043adb4872b94cba8b
+      internalID: 1254279890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_89
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41263dd65de7b4d489609cc5a83b1dd8
+      internalID: 1261060299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_90
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 476
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c7324d1c531ec46b12a2a359416efe
+      internalID: 1609092269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af6c11b3863d84ab0aad4a3bbb5811
+      internalID: 535111145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc2e37437d79c442b4eaa83ef1b3c56
+      internalID: -1347488519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b860f1db6d067624fa1ae276217ee54e
+      internalID: -1601712464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_94
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8888ddf37b85a82479193814f2275777
+      internalID: 1748789723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4da916762fa314eb2f8eefd3b2bcce
+      internalID: 676440530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_96
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb41033f3385506479087371edf7af43
+      internalID: 512262645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_97
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1375461cb748de4d858400143f479b2
+      internalID: 1213920717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_98
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3832fc6a3a6ef48a34d18abfd5e87e
+      internalID: -797809854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_99
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbaea90890103c46bf4b177351d6a09
+      internalID: -233968326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_100
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8303dea45b32570439120e734ec20870
+      internalID: -1293258442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_101
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574f9fa15781d24595b0175a82597e7
+      internalID: 1833951168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_102
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51deb2cbd5f780e40b72173a5682df71
+      internalID: 1028599449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_103
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 408
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192e246562579441ba62a92d417815d
+      internalID: -1846865095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a3f6c124c6644aab3b6c3a62232c6
+      internalID: -1328307801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_105
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c88055b2c572b641a8a17559e18a907
+      internalID: 2005131027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e334ea9f40e3f4c99f079aaa843caa
+      internalID: -252732036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c96a24af7891746a32d1be09ceed62
+      internalID: -530382587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_108
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d682f25d2d34e74ca6aaedc20f3a9c9
+      internalID: 2013049609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa75e7edba5dee43b63eed6c6e93fcf
+      internalID: 1059398594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_110
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9fbdfdb625264ea462a6c30a26e40
+      internalID: 527301711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_111
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf16600c8e44f4bb45b040de64de15
+      internalID: 1485031498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_112
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c548ae3aab2cdd41aedbef59a39c799
+      internalID: 1662390907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_113
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a7050e911e5364a94a6bdc00a74735
+      internalID: 117882565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_114
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6fd64b766e7b641ac50791e5027aa3
+      internalID: -206622344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_115
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd920d7b7674f046889d1d8e5e6abe0
+      internalID: -970432467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_116
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 340
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede5ab1c7e81ff4cad2385068359816
+      internalID: 2015808077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d47baddc9619dc4383bdd2f692b429e
+      internalID: -1616148311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_118
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f180d6c802c694c9236b74fb76ed45
+      internalID: -1619108438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_119
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47edec802ae74349a07f0c6b936fc67
+      internalID: 426270636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_120
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c3b10fe1a6b964ba67cdc7ea7dc033
+      internalID: -1601502667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_121
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63521234c89afd0468350965aa4a56e3
+      internalID: 987694902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_122
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01142dbc42e7bc44cb2d8c5bdf3de2cf
+      internalID: -1364554235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_123
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed3b98aca53334d968203d3f6f7571
+      internalID: 1980863774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_124
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98099ec49a0475479934732c4d8c178
+      internalID: 726861967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_125
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff363c7d54ce9442b39741813faaacb
+      internalID: -397293618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_126
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14421fd04773f224ba79f8337d7aa397
+      internalID: 325341473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_127
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a7327f1ccba6041bde75ee57aa1c74
+      internalID: 187494260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_128
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05324cea2dad5b04287626105643f0e3
+      internalID: -1360129507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_129
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 272
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53eb3e225a4c640939556501a2bc10
+      internalID: 1057403256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a416b935289bc4f922e179436c530e
+      internalID: 1565133826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_131
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fa61eae8011fd4e84678788719b408
+      internalID: -714499154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_132
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3f6d64ad49a264fb25fcb6eb25e575
+      internalID: 1328176681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_133
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2273dc745cbe64a91dcad4a1fb28bc
+      internalID: -2041255771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_134
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95679d17767ef45aebcea9656da371
+      internalID: -376704725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_135
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da8612a99f31634b8fc7ed2dc6b1842
+      internalID: 916640867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_136
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7495efe559ea9b745b51eebcf02c9b2a
+      internalID: -520582872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_137
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de2870953e89904cb3e23bb8a0939d8
+      internalID: -1137711471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_138
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3046629780e7344a3fdf05a595854a
+      internalID: 2015644261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_139
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0fea4e0868d940895bcff7649892c
+      internalID: 638922714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_140
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292ae78c7a83cd64c80cf5499da56e8b
+      internalID: -886905992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_141
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e78ce21b082c4aa68e813612fdd9a
+      internalID: -1960547490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_142
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 204
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acf7222caa944148bfc06da5ad9e1ba
+      internalID: -1951998958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a263ef6ee8da48921a6df51c24025
+      internalID: -60673485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_144
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa2abc8846f37f4798a169ab045bf13
+      internalID: 398537936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_145
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7108da59eb7cbab4fb3cb89d5960862b
+      internalID: 150688963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_146
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762804afabaeba44ba30b2f9b8dbbdbc
+      internalID: -1829436315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_147
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb04657c32a2b46a89758fefe9bbcf
+      internalID: 1828771289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_148
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ebec22838273946b86e028758fbdd8
+      internalID: 341208254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_149
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd0a119f14fa1498cedce3dd317142
+      internalID: -1317162628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_150
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce37f09538bdcd49bb37ba9346847ac
+      internalID: -251323410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_151
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845508514cbf8c43b0817b148ed1989
+      internalID: -1448687855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_152
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1eefa1842f7cb468936781ad8ecff3
+      internalID: 642893637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_153
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e477da39d801a334c9b1139d15ed33b7
+      internalID: -942583274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_154
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63111c5287fd8a943a1934b56db4fe8c
+      internalID: 2011425951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_155
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 136
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5463bb8522f9c4e982d05b1f50f6d1
+      internalID: -1089053482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d463756bc1ce2574d8642de04d2aceed
+      internalID: 1262841880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_157
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2317b64f6d125b747b6ae58cf740853f
+      internalID: -1954542432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_158
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c37998b4de78647bb2c5c21c6c8289
+      internalID: 1873997221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_159
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78ec1b8a7cf53549aec4ddd88143807
+      internalID: -1180151291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_160
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e0b2c31873c9048a0971a364c4951e
+      internalID: -840265784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_161
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2322498a8decfe54b96a3cf8d419180b
+      internalID: -1590301392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_162
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b6309e0a5eb94484b4cfd79ee41e6
+      internalID: 1761504206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_163
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54619af411b54247bfd593d8f22c2c2
+      internalID: -519510015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_164
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ad72109148bab4388845715ddd3149
+      internalID: -164755260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_165
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43990f6deedbed64b9b0df5cfe77e318
+      internalID: 974762218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_166
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff1acfc6c21b34b95301ef79dac3e4
+      internalID: -379934668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_167
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128092c39d7704a44af37135d6c9098a
+      internalID: 1683079853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_168
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 68
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009b3277a1021174b9304e09b98d3eb2
+      internalID: -1893334738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c69a50f06a011b429754c5891cfbd23
+      internalID: -954257429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_170
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e5433560d0d62428525b1776ac509e
+      internalID: -1404778505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_171
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a019dc514b8f345898b4251081e4de
+      internalID: -591409806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_172
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4cd8cb045df414abe0bf4b50d8392f
+      internalID: -311649254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_173
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0763b6afb2cf68428d7d0db9a1f68cd
+      internalID: -1613474107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_174
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e5220f084b3414cba3cc16d08aeeca
+      internalID: -1551738155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_175
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ea24c01ca6954980f5cd2ab472e01
+      internalID: 1976610972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_176
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fadcbfbbd5b8548ab87484fa04661a
+      internalID: 1728787501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cone1_177
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f7cf52a04674f4ea833dec98c08e2e
+      internalID: -788685282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
@@ -132,7 +4049,189 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":88.0,"y":68.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      cone1_0: 1152990050
+      cone1_1: 1528388737
+      cone1_10: -785660197
+      cone1_100: -1293258442
+      cone1_101: 1833951168
+      cone1_102: 1028599449
+      cone1_103: -1846865095
+      cone1_104: -1328307801
+      cone1_105: 2005131027
+      cone1_106: -252732036
+      cone1_107: -530382587
+      cone1_108: 2013049609
+      cone1_109: 1059398594
+      cone1_11: -1795227630
+      cone1_110: 527301711
+      cone1_111: 1485031498
+      cone1_112: 1662390907
+      cone1_113: 117882565
+      cone1_114: -206622344
+      cone1_115: -970432467
+      cone1_116: 2015808077
+      cone1_117: -1616148311
+      cone1_118: -1619108438
+      cone1_119: 426270636
+      cone1_12: -1404813846
+      cone1_120: -1601502667
+      cone1_121: 987694902
+      cone1_122: -1364554235
+      cone1_123: 1980863774
+      cone1_124: 726861967
+      cone1_125: -397293618
+      cone1_126: 325341473
+      cone1_127: 187494260
+      cone1_128: -1360129507
+      cone1_129: 1057403256
+      cone1_13: -1009528682
+      cone1_130: 1565133826
+      cone1_131: -714499154
+      cone1_132: 1328176681
+      cone1_133: -2041255771
+      cone1_134: -376704725
+      cone1_135: 916640867
+      cone1_136: -520582872
+      cone1_137: -1137711471
+      cone1_138: 2015644261
+      cone1_139: 638922714
+      cone1_14: -427130981
+      cone1_140: -886905992
+      cone1_141: -1960547490
+      cone1_142: -1951998958
+      cone1_143: -60673485
+      cone1_144: 398537936
+      cone1_145: 150688963
+      cone1_146: -1829436315
+      cone1_147: 1828771289
+      cone1_148: 341208254
+      cone1_149: -1317162628
+      cone1_15: -1343497555
+      cone1_150: -251323410
+      cone1_151: -1448687855
+      cone1_152: 642893637
+      cone1_153: -942583274
+      cone1_154: 2011425951
+      cone1_155: -1089053482
+      cone1_156: 1262841880
+      cone1_157: -1954542432
+      cone1_158: 1873997221
+      cone1_159: -1180151291
+      cone1_16: -1470534898
+      cone1_160: -840265784
+      cone1_161: -1590301392
+      cone1_162: 1761504206
+      cone1_163: -519510015
+      cone1_164: -164755260
+      cone1_165: 974762218
+      cone1_166: -379934668
+      cone1_167: 1683079853
+      cone1_168: -1893334738
+      cone1_169: -954257429
+      cone1_17: 618014386
+      cone1_170: -1404778505
+      cone1_171: -591409806
+      cone1_172: -311649254
+      cone1_173: -1613474107
+      cone1_174: -1551738155
+      cone1_175: 1976610972
+      cone1_176: 1728787501
+      cone1_177: -788685282
+      cone1_18: -1655217501
+      cone1_19: 2037177075
+      cone1_2: -1474124166
+      cone1_20: -2079760812
+      cone1_21: -2038635220
+      cone1_22: 766358967
+      cone1_23: 1932398848
+      cone1_24: -1437578843
+      cone1_25: -47477214
+      cone1_26: 376442661
+      cone1_27: -1557598315
+      cone1_28: -149436078
+      cone1_29: 1340053462
+      cone1_3: 866373046
+      cone1_30: -1688253025
+      cone1_31: -2054025986
+      cone1_32: -741881563
+      cone1_33: 396847588
+      cone1_34: 704260499
+      cone1_35: 1538108103
+      cone1_36: 1651673002
+      cone1_37: -342919277
+      cone1_38: -204756521
+      cone1_39: -162447227
+      cone1_4: 1358960110
+      cone1_40: 1871883370
+      cone1_41: 91487651
+      cone1_42: -2107421202
+      cone1_43: -1126502357
+      cone1_44: -1282837066
+      cone1_45: -515738042
+      cone1_46: 140913903
+      cone1_47: 358085982
+      cone1_48: 83406889
+      cone1_49: 660596670
+      cone1_5: 2032589590
+      cone1_50: 445577359
+      cone1_51: 1186645442
+      cone1_52: -1634803542
+      cone1_53: -862923741
+      cone1_54: -1522395304
+      cone1_55: 251046983
+      cone1_56: 1307668137
+      cone1_57: 1921088405
+      cone1_58: -1778071030
+      cone1_59: 666247093
+      cone1_6: -418674440
+      cone1_60: -458750014
+      cone1_61: 1251836560
+      cone1_62: -404894791
+      cone1_63: 1263050091
+      cone1_64: -1288243181
+      cone1_65: 763016876
+      cone1_66: -1940404786
+      cone1_67: -1706637128
+      cone1_68: -680481372
+      cone1_69: 462015254
+      cone1_7: 1801738926
+      cone1_70: 778754170
+      cone1_71: 1575555074
+      cone1_72: -1283284556
+      cone1_73: 1514120609
+      cone1_74: 146741345
+      cone1_75: -1431989453
+      cone1_76: 1585589721
+      cone1_77: 1550714581
+      cone1_78: 1938048515
+      cone1_79: 1531195337
+      cone1_8: -544181515
+      cone1_80: -1093241312
+      cone1_81: 1538739735
+      cone1_82: -317806739
+      cone1_83: -927699340
+      cone1_84: 1334474808
+      cone1_85: 49139512
+      cone1_86: 1198242899
+      cone1_87: -379447790
+      cone1_88: 1254279890
+      cone1_89: 1261060299
+      cone1_9: 1723453030
+      cone1_90: 1609092269
+      cone1_91: 535111145
+      cone1_92: -1347488519
+      cone1_93: -1601712464
+      cone1_94: 1748789723
+      cone1_95: 676440530
+      cone1_96: 512262645
+      cone1_97: 1213920717
+      cone1_98: -797809854
+      cone1_99: -233968326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
