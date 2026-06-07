@@ -6,4 +6,5 @@ public class PlantCard : ScriptableObject
     public Sprite sprite;
     public int sunCost;
     public int cooldown;
+    public GameObject realPlant;
 }

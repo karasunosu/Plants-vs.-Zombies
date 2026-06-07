@@ -12,6 +12,7 @@ public class PlacementManager : MonoBehaviour, IPointerDownHandler, IDragHandler
     PlantCard plantCardSO;
     Sprite plantSprite;
     GameObject plant;
+    GameObject realPlant;
     CanvasGroup canvasGroup;
     Tile tile;
 
@@ -36,7 +37,7 @@ public class PlacementManager : MonoBehaviour, IPointerDownHandler, IDragHandler
 
     public void OnPointerDown(PointerEventData eventData)
     {
-        plant = Instantiate(plantImagePrefab, GetMouseWorldPos(eventData), Quaternion.identity, transform);
+        plant = Instantiate(plantImagePrefab, GetMouseWorldPos(eventData), Quaternion.identity);
         plantSprite = plantCardSO.sprite;       
         plant.GetComponent<SpriteRenderer>().sprite = plantSprite; 
 
@@ -48,7 +49,9 @@ public class PlacementManager : MonoBehaviour, IPointerDownHandler, IDragHandler
         Vector3 dropPos = plant.transform.position;
         tile = GridManager.Instance.GetTileAtWorldPos(dropPos);
         // if() // dieu kien dat cay
-        plant.transform.position = tile.transform.position;
+        Destroy(plant);
+        realPlant = plantCardSO.realPlant;
+        GameObject rPlant = Instantiate(realPlant, tile.transform.position, Quaternion.identity);
     }
     public void setPlantSO(PlantCard plantCard)
     {

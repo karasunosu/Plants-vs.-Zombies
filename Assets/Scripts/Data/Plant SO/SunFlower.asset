@@ -15,3 +15,4 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: 71febdad16c1c0a49a2e0bdd2477a0f0, type: 3}
   sunCost: 50
   cooldown: 2
+  realPlant: {fileID: 3418295945611610380, guid: 124439f22d3181343b34da747c847f5c, type: 3}
