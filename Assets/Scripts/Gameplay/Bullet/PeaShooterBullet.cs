@@ -5,8 +5,7 @@ public class PeaShooterBullet : MonoBehaviour
 {
     [SerializeField] float speed = 5f;
     [SerializeField] int damage = 10;
-    [SerializeField] float distanceToRelease = 5f;
-
+    
     void Update()
     {
         Move();

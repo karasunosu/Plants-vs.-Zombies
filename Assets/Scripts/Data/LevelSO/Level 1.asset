@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf5a17b2995b47f428f36d7b8d7c3a21, type: 3}
   m_Name: Level 1
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
-  waves: []
+  waves:
+  - timeStart: 0
+    zombies:
+    - type: 3
+      amount: 5
+  - timeStart: 10
+    zombies:
+    - type: 3
+      amount: 2

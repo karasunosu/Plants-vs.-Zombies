@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4637710303253208913}
   - component: {fileID: 5066938736636565497}
   - component: {fileID: 731222846154517371}
+  - component: {fileID: 1730062704493040881}
   m_Layer: 0
   m_Name: Anim
   m_TagString: Untagged
@@ -114,6 +115,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1730062704493040881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1438110313076417969}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcb012da0bea8fb459443cb6a44e97bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PeaShooterAnimationEvent
 --- !u!1 &3983230552101375750
 GameObject:
   m_ObjectHideFlags: 0
@@ -246,9 +259,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1505471073548459264}
   - component: {fileID: 7118731042262989567}
-  - component: {fileID: 6429211955314801307}
-  - component: {fileID: 5522125477657804929}
   - component: {fileID: 2342453302262664029}
+  - component: {fileID: -4476381120131928153}
+  - component: {fileID: 5522125477657804929}
+  - component: {fileID: 6429211955314801307}
   m_Layer: 0
   m_Name: Peashooter
   m_TagString: Untagged
@@ -333,33 +347,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &6429211955314801307
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5752347092361117410}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f6f505eae29f46140bdcb6b1788ff3b8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Plant
-  starCost: 0
---- !u!114 &5522125477657804929
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5752347092361117410}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3ef793f6b6ac2d479d8559542577177, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PeaShooter
-  firePoint: {fileID: 1153038731872568697}
-  fireRate: 1.5
 --- !u!50 &2342453302262664029
 Rigidbody2D:
   serializedVersion: 5
@@ -386,4 +373,79 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
+--- !u!61 &-4476381120131928153
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5752347092361117410}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.6846154, y: 0.6923077}
+    newSize: {x: 0.65925926, y: 0.6666667}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.6846154, y: 0.6923077}
+  m_EdgeRadius: 0
+--- !u!114 &5522125477657804929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5752347092361117410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3ef793f6b6ac2d479d8559542577177, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PeaShooter
+  firePoint: {fileID: 1153038731872568697}
+  fireRate: 1.5
+  attackRange: 7.5
+--- !u!114 &6429211955314801307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5752347092361117410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6f505eae29f46140bdcb6b1788ff3b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Plant
+  starCost: 100
+  animator: {fileID: 731222846154517371}

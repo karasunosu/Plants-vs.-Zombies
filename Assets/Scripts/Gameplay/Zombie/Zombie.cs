@@ -2,15 +2,10 @@ using UnityEngine;
 
 public class Zombie : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public const string Zombie_Tag = "Zombie";
 
-    // Update is called once per frame
-    void Update()
+    public bool IsAttackable(float y)
     {
-        
+        return Mathf.Abs(transform.position.y - y) < 0.01f;
     }
 }
