@@ -6,6 +6,7 @@ public enum PoolType
     PeaBullet, 
     SnowPeaBullet, 
     Sun, 
-    Zombie, 
+    NormalZombie,
+    FlagZombie, 
     FakePlant // preview
 }
