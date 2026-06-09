@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
         {
             Vector2 mousePos = Camera.main.ScreenToWorldPoint(Mouse.current.position.ReadValue());
 
-            RaycastHit2D[] raycasts = Physics2D.RaycastAll(mousePos, Vector2.down);
+            RaycastHit2D[] raycasts = Physics2D.RaycastAll(mousePos, Vector2.down, 0.1f);
 
             foreach(var hit in raycasts)
             {
