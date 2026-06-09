@@ -11,6 +11,7 @@ public class PeaShooterBullet : MonoBehaviour
 
     bool isExploding;
     bool isReleased;
+    public bool isSnow;
 
     private void OnEnable()
     {
@@ -53,6 +54,18 @@ public class PeaShooterBullet : MonoBehaviour
             if(zom != null)
             {
                 zom.TakeDamage(damage);
+
+                if (isSnow)
+                {
+                    Zombie zombie = collision.GetComponent<Zombie>();
+                    if (zombie != null)
+                    {
+                        Color freezeColor = new Color(0.000f, 0.365f, 0.910f, 0.900f);
+                        zombie.animSprite.color = freezeColor;
+                        zombie.Slow(0.7f, 3f); // cham 70%, 3s hardcode cho nhanh
+                    }
+                }
+
                 Explode();
             }
         }

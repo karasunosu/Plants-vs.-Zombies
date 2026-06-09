@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -6,10 +7,27 @@ public class Zombie : MonoBehaviour
     [SerializeField] IState currentState;
     [SerializeField] Animator animator;
 
+    public SpriteRenderer animSprite;
     public float moveSpeed = 5f;
     public Rigidbody2D rb;
 
     string currentAnim = "";
+    float originalSpeed;
+    SpriteRenderer originColor;
+    Coroutine slowCoroutine;
+
+    void Awake()
+    {
+        originalSpeed = moveSpeed;
+        originColor = animSprite;
+        originColor.color = animSprite.color;
+    }
+
+    void OnEnable()
+    {
+        originColor.color = animSprite.color;
+        originalSpeed = moveSpeed;
+    }
 
     void Update()
     {
@@ -49,6 +67,27 @@ public class Zombie : MonoBehaviour
     public bool IsAttackable(float y)
     {
         return Mathf.Abs(transform.position.y - y) < 0.01f;
+    }
+
+    public void Slow(float percent, float duration)
+    {
+        if(slowCoroutine != null)
+        {
+            StopCoroutine(slowCoroutine);
+        }
+
+        slowCoroutine = StartCoroutine(
+            SlowRoutine(percent, duration)
+        );
+    }
+
+    IEnumerator SlowRoutine(float percent, float duration)
+    {
+        moveSpeed = originalSpeed * (1f - percent);
+
+        yield return new WaitForSeconds(duration);
+
+        moveSpeed = originalSpeed;
     }
 
     public const string Zombie_Tag = "Zombie";

@@ -289,6 +289,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Zombie
   animator: {fileID: 6405302530869074592}
+  animSprite: {fileID: 8808146718918101934}
   moveSpeed: 0.1
   rb: {fileID: 5246724811470456279}
 --- !u!114 &3656309864870681643

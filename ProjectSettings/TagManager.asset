@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Zombie
   - Plant
+  - Sun
   layers:
   - Default
   - TransparentFX
