@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 2128885108540916776}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.35, z: 0}
+  m_LocalPosition: {x: 0, y: 0.26, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -127,6 +127,7 @@ GameObject:
   - component: {fileID: 5246724811470456279}
   - component: {fileID: 5672571888840247816}
   - component: {fileID: 6327976003043210045}
+  - component: {fileID: 3656309864870681643}
   m_Layer: 0
   m_Name: NormalZombie
   m_TagString: Zombie
@@ -287,6 +288,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9564f07c7b7567e4b9d07027f10fd14a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Zombie
+  animator: {fileID: 6405302530869074592}
+  moveSpeed: 0.1
+  rb: {fileID: 5246724811470456279}
+--- !u!114 &3656309864870681643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8116457046018589474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: febbf9b40b895a945b8500972ee4336c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ZomNormal
+  head: {fileID: 3659548612863234625}
+  maxHp: 100
+  damage: 10
+  isDead: 0
 --- !u!1001 &6815714728999677755
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -409,5 +429,10 @@ PrefabInstance:
 --- !u!4 &2639976190013478165 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5169496390176418331, guid: 6ab408e0c3c43f644ad8644c001e4006, type: 3}
+  m_PrefabInstance: {fileID: 7142332737278394126}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3659548612863234625 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5897461355897924943, guid: 6ab408e0c3c43f644ad8644c001e4006, type: 3}
   m_PrefabInstance: {fileID: 7142332737278394126}
   m_PrefabAsset: {fileID: 0}

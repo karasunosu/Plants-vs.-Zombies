@@ -265,7 +265,7 @@ GameObject:
   - component: {fileID: 6429211955314801307}
   m_Layer: 0
   m_Name: Peashooter
-  m_TagString: Untagged
+  m_TagString: Plant
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -449,3 +449,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Plant
   starCost: 100
   animator: {fileID: 731222846154517371}
+  maxHp: 100
+  isDead: 0

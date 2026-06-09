@@ -4,7 +4,7 @@ using UnityEngine;
 public class PeaShooterBullet : MonoBehaviour
 {
     [SerializeField] float speed = 5f;
-    [SerializeField] int damage = 10;
+    [SerializeField] float damage = 10;
     
     void Update()
     {
@@ -23,5 +23,10 @@ public class PeaShooterBullet : MonoBehaviour
         {
             PoolManager.Instance.Return(PoolType.PeaBullet, gameObject);
         }
+    }
+
+    public float GetDamage()
+    {
+        return damage;
     }
 }
