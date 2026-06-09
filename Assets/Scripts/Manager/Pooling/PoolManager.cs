@@ -61,17 +61,17 @@ public class PoolManager : MonoBehaviour
 
     void OnGetFromPool(GameObject obj)
     {
-        obj.SetActive(true);
+        if(obj != null) obj.SetActive(true);
     }
 
     void OnReleaseToPool(GameObject obj)
     {
-        obj.SetActive(false);
+        if(obj != null) obj.SetActive(false);
     }
 
     void OnDestroyPooledObject(GameObject obj)
     {
-        Destroy(obj);
+        if(obj != null) Destroy(obj);
     }
 
 }

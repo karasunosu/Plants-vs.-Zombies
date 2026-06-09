@@ -15,9 +15,12 @@ public class ZomNormal : MonoBehaviour, IDamageable
         thisZombie = GetComponent<Zombie>();
     }
 
-    void Start()
+    void OnEnable()
     {
         currentHp = maxHp;
+        isDead = false;
+        head.SetActive(false);
+        thisZombie.ChangeState(null); // tranh truong hop van dang state walk ma tao lai velocity van la 0
         thisZombie.ChangeState(new ZomNormalWalk(thisZombie, this));
     }
 
@@ -35,13 +38,27 @@ public class ZomNormal : MonoBehaviour, IDamageable
 
     public void Die()
     {
+        if(isDead) return;
+
         isDead = true;
         Stop();
         head.SetActive(true);
         thisZombie.ChangeAnim(ANIM_ZOM_NORMAL_DIE);
+        Invoke(nameof(TurnOffHead), 0.5f);
+        Invoke(nameof(Release), 2f);
+    }
+
+    void Release()
+    {
+        isDead = false;
+        head.SetActive(false);
         PoolManager.Instance.Return(PoolType.NormalZombie, gameObject);
     }
 
+    void TurnOffHead()
+    {
+        head.SetActive(false);
+    }
     public bool IsCanEat()
     {
         Vector2 start = transform.position;

@@ -7,7 +7,7 @@ public class SunController : MonoBehaviour
 
     [SerializeField] TextMeshProUGUI sunText;
 
-    int currentSun = 50;
+    public int currentSun = 50;
 
     void Awake()
     {

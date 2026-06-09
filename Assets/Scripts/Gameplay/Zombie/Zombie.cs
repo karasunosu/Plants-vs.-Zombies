@@ -21,7 +21,7 @@ public class Zombie : MonoBehaviour
 
     public void ChangeState(IState state)
     {
-        if(currentState != null && currentState.GetType() == state.GetType()) { return; }
+        // if(currentState != null && currentState.GetType() == state.GetType()) { return; }
 
         if(currentState != null)
         {

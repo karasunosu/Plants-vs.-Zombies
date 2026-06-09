@@ -434,6 +434,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlacementManager
   plantImagePrefab: {fileID: 4853662097175910753, guid: f6ca0cf65b13d3d48a20294395cf1f71, type: 3}
+  previewPrefab: {fileID: 1730783170417319126, guid: 342d79f80540f9e4798b375493739a84, type: 3}
 --- !u!1 &8878583847076065920
 GameObject:
   m_ObjectHideFlags: 0
